@@ -6,35 +6,31 @@
 <br>
 
 **Contents:** 
+<br>
 
-`BLAST_SeaStarTranscriptome.ipynb` : class project. extracting differentially expressed genes from a seastar transriptome infected by wasting disease, and BLASTing the Atlantic cod transcriptome against these DEG
+`Lanes 1 and 2 combined pipeline.ipynb` : stacks v1.44. Stacks pipeline (process_radtags to populations) + additional filtering (biallelic loci, MAF, loci with missing data, individuals with missing data). 
 <br>
 <br>
-`Class Notebook.ipynb` : notes from guest lecturers in class. 
+`Lanes 1 and 2 combined, Analyses + Results` : stacks v1.44. Uses the outputs from the `Lanes 1 and 2 combined pipeline` notebook to run analyses on (1) population structure, (2) stacks pipeline, and (3) 300ng / degraded protocols. 
 <br>
 <br>
-`DNA Methylation_Oysters.ipynb` : Class project visualizing methylation in oyster DNA using program IGV, and then blasting methylated sequences against Atlantic cod. 
+`Lane1data_full stacks pipeline.ipynb` : stacks v1.42. Stacks pipeline from process_radtags to sstacks for the first 60 P. cod samples that were sequenced (Lane 1, Illumina HiSeq 4000). Linked Evernote notebook contains helpful explanations of each step and visualizations of data. 
 <br>
 <br>
-`Lane1data_full stacks pipeline.ipynb` : Korean Pacific cod. Stacks pipeline from process_radtags to sstacks for the first 60 P. cod samples that were sequenced (Lane 1, Illumina HiSeq 4000). Linked Evernote notebook contains helpful explanations of each step and visualizations of data. 
+<br>
+*TESTING STACKS/*
+<BR>
+`Testing stacks Parameters I.ipynb` : stacks v1.42. Full code for optimizing u- and cstacks parameters, 10/18/2016 to 11/3/2016
 <br>
 <br>
-`Testing stacks Parameters 10.21-22.ipynb` : Korean Pacific cod. Attempt to use Jupyter to optimize u- and cstacks parameters for later analysis of cod data. 
+`Testing stacks Parameters II.ipynb` : stacks v1.42. Full code for finishing ustacks parameter -M, and for comparing outputs from different ustacks parameters, 11/7/2016
 <br>
 <br>
-`Testing stacks Parameters I.ipynb` : Korean Pacific cod. Full code for optimizing u- and cstacks parameters, 10/18/2016 to 11/3/2016
+`stacks-Undercalling Heterozygotes I.ipynb` : stacks v1.42. Description of alternations and testing with additional filtering scripts from Marine Brieuc, for use with pstacks (with reference genome). 
 <br>
 <br>
-`Testing stacks Parameters II.ipynb` : Korean Pacific cod. Full code for finishing ustacks parameter -M, and for comparing outputs from different ustacks parameters, 11/7/2016
+`stacks-Undercalling Heterozygotes II.ipynb` : stacks v1.42. Description of alternations and testing with additional filtering scripts from Marine Brieuc, for use with cstacks (without reference genome). 
 <br>
-<br>
-`stacks-Undercalling Heterozygotes I.ipynb` : Korean Pacific cod. Description of alternations and testing with additional filtering scripts from Marine Brieuc, for use with pstacks (with reference genome). 
-<br>
-<br>
-`stacks-Undercalling Heterozygotes II.ipynb` : Korean Pacific cod. Description of alternations and testing with additional filtering scripts from Marine Brieuc, for use with cstacks (without reference genome). 
-<br>
-<br>
-`Lane2data_radtags to ustacks.ipynb` : Korean Pacific cod. Stacks pipeline from process_radtags to sstacks for the second 72 P. cod samples that were sequenced (Illumina HiSeq 4000). Includes assesssing the effectiveness of new protocols for use with 300ng or low quality DNA. Linked Evernote notebook contains visualizations of data. 
 <br>
 <br>
 <br>
@@ -47,6 +43,8 @@
 (3) Anaconda2 - 4.2.0
 
 (4) RStudio 0.99.903 *run in Windows 10 environment*
+
+(5) stacks v1.42 OR 1.44 (noted)
 
 
 *information on HOW VMware and stacks pipeline were installed [here](http://www.evernote.com/l/Aoryz9urcLxDMKAbS8TjTle88gzwAKM56og/)
