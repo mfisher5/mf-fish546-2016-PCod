@@ -73,19 +73,17 @@ A better understanding of the genetic population structure of Pacific cod around
 
 **[L1L2stacks_m10/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/L1L2stacks_m10)**   *folder for `stacks` pipeline output, and output from end filtering steps. Uses samples from* L1L2samplesT142/
 
+**[TestingStacks/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/TestingStacks)**   *folder for `stacks` pipeline output from (1) testing stacks parameters, (2) testing additional filtering scripts after `populations` output, and (3) manually checking stacks' way of calling genotypes. Corresponds to the Jupyter notebook folder* [testing stacks](https://github.com/mfisher5/mf-fish546-PCod/tree/master/notebooks/testing%20stacks)
+
 **[SCRIPTS/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/scripts)**  *shell scripts to run stacks from command line, python scripts to generate shell scripts with repetitive code, barcode and population map files needed for `stacks`*
 	
 --[**UndercallingHets_MB_CW/**](https://github.com/mfisher5/mf-fish546-PCod/tree/master/scripts/UndercallingHets_MB_CW) *scripts that are used to conduct additional filtering on the output from `populations`. This includes creating genotype files at the end of the filtering steps to complete population structure analyses.*
 
+--[**Lane1/**](https://github.com/mfisher5/mf-fish546-PCod/tree/master/scripts/Lane1) *scripts that were used to go through the Lane 1 data in stacks v1.42*
+
 **[NOTEBOOKS/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/notebooks)**  *jupyter notebooks*
 
 **[ANALYSES/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/Analyses)** *output of analyses that are not included in stacks; ie. genepop analysis of population structure.*
-	
---[**dapc/**](https://github.com/mfisher5/mf-fish546-PCod/tree/master/Analyses/DAPC) *scripts and graphs from R used to run DAPC analyses.*
-    
---[**fastq_SeqComparisons/**](https://github.com/mfisher5/mf-fish546-PCod/tree/master/Analyses/FASTQ%20_SeqComparisons) *text files and R script used to compare the number of sequences between 500ng, 300ng, and degraded DNA samples output from `process_radtags`.*
-	
---[**genepop/**](https://github.com/mfisher5/mf-fish546-PCod/tree/master/Analyses/Genepop) *output from genepop analyses; contains only examples, as genepop output files too large to store on github.*
 
 [**DIAGRAMS/**](https://github.com/mfisher5/mf-fish546-2016/tree/master/Diagrams) *helpful pictures and diagrams linked in Jupyter notebooks, ie. sample site map and `genepop` executable screen*
 
