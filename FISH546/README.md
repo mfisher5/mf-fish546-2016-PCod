@@ -3,6 +3,9 @@
 This folder contains essentially a full repository for class notes, projects, and homeworks that are NOT related to my final project. 
 
 <br>
+**diagrams/** : pictures linked to Jupyter notebooks. 
+<br>
+<br>
 **notebooks/** : Jupyter notebooks with class content. 
 <br>
 <br>
