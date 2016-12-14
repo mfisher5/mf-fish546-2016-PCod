@@ -1,0 +1,10 @@
+From file: L1L2stacks_m10/batch_1_filtered_MAF_MissingLoci_Individs.txt
+7 populations
+Genetic statistic (Fst):
+0.002231 
+4.054e-005 0.002567 
+0.04164 0.04868 0.03713 
+0.0469  0.05634 0.04389 0.026   
+0.006097 0.008313 0.007482 0.05581 0.05912 
+0.06829 0.08303 0.06873 0.06003 0.03488 0.07811 
+Geographic distances:
