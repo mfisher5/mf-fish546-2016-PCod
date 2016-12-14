@@ -1,6 +1,6 @@
 # mf-fish546-PCod
 repo for bioinformatics course final project. 
-This README reviews relevant information for final project only. for class notes, homeworks, and other class projects, please refer to this folder: [FISH546]()
+This README reviews relevant information for final project only. for class notes, homeworks, and other class projects, please refer to this folder: [FISH546](https://github.com/mfisher5/mf-fish546-PCod/tree/master/FISH546)
 
 
 ## Project: Pacific cod around the Korean peninsula
