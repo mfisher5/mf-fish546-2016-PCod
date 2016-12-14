@@ -1,164 +1,79 @@
-# mf-fish546-2016
-repo for bioinformatics course. 
+# mf-fish546-PCod
+repo for bioinformatics course final project. 
+for class notes, homeworks, and other class projects, please refer to this repo: [mf-fish546-2016](https://github.com/mfisher5/mf-fish546-2016)
 
 
 ## Project: Pacific cod around the Korean peninsula
 <br>
-<br>
-The Korean peninsula is the southern edge of the Pacific cod's (*Gadus macrocephalus*) range in the western Pacific Ocean. Pacific cod used to be a productive domestic fishery for South Korea, but recent declines in catch have led to attempted stock enhancement programs. These programs release hatchery-raised juveniles and larvae. 
 
-A better understanding of the genetic population structure of Pacific cod around the Korean peninsula can address two critical research needs of Korean fisheries management: (1) the correct way to subset the domestic fishery into separate stocks for assessment and policy, and (2) the creation of a quantitative genetic baseline (such as divergence between spawning aggregates, per aggregate heterozygosity, etc.) to allow for future monitoring of hatchery effects on the wild populations. 
-<br>
-<br>
-<br>
-### Project Goals: 
-<br>
-**(1)** Clarify population structure of spawning aggregates in South Korean coastal waters ([Sample information](https://github.com/mfisher5/mf-fish546-2016/blob/master/Diagrams/SampleMaps.png))
-<br>
+The Korean peninsula is the southern edge of the Pacific cod's (*Gadus macrocephalus*) range in the western Pacific Ocean. Pacific cod used to be a productive domestic fishery for South Korea, but there have been recent declines and high variability in catch between fishing seasons. This has led to stock enhancement programs which release hatchery-raised juveniles and larvae. 
 
-**(2)** Look at genomic architecture of population divergence by identifying islands of divergence (clusters of outlier loci)
-  
-#### Class goals: focusing within Project Goal Num. 1
-
-**(1)** Optimize parameters for stacks pipeline
-
-**(2)** Get a preliminary analysis of population structure between 3 populations in lane 1 data
-
-*[Helpful workflow diagram of population structure analysis](https://github.com/mfisher5/mf-fish546-2016/blob/master/Diagrams/PopGen_Workflow.md)*
+A better understanding of the genetic population structure of Pacific cod around the Korean peninsula can address two critical research needs of Korean fisheries management: (1) the correct way to subset the domestic fishery into separate stocks for assessment and policy, and (2) the creation of a quantitative genetic baseline (such as divergence between spawning aggregates, per aggregate heterozygosity, etc.) to allow for future monitoring of hatchery effects on the wild populations.
+<br>
+<br>
+<br>
+### Project Goal: Clarify population structure of Pacific cod spawning aggregates in South Korean waters 
+![Sample information Map](https://github.com/mfisher5/mf-fish546-PCod/blob/master/Diagrams/SampleMaps.png)
+<br>
 
 
 ###Class Objectives: 
+  **(1) Become familiar with the `stacks` pipeline using Lane 1 sequence data **
+*Jupyter notebook [here](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lane1data_full%20stacks%20pipeline.ipynb)*
+<br>
 
-  **(1)** Optimize parameters for stacks pipeline
+
+  **(2) Optimize parameters for `stacks` pipeline**
   
-       (a) Research previous papers on parameters for c and ustacks, and come up with a list of parameter values to test
+       (a) Research previous papers / labmate work on parameters for c and ustacks, and come up with a list of parameter values to test. 
+
+*Evernote notebook [here](https://www.evernote.com/shard/s650/sh/122752f1-9ab7-4f9b-a9af-0c3331617436/0c84d3e0f73055a6)*
        
        (b) Determine quantitative measures that will be used for comparing different batches of c/ustacks parameters
        
-       (c) Decide which parameters to use with the lane 1 data. 
-  
-
-  **(2)** Get a preliminary analysis of population structure between 3 populations in lane 1 data
-
-      (a) Create a reference genome for lane 1 data using the optimized stacks parameters
-      
-      (b) Run through the full stacks pipeline with Lane 1 data
-      
-      (b) Obtain measures of population structure (paired and overall Fst), and identify outlier loci that are potentially under selection
+       (c) Run through stacks with the Lane 1 data
+*Jupyter notebook p1 [here](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/testing%20stacks/Testing%20stacks%20Parameters%20I%20.ipynb)*
+*Jupyter notebook p2 [here](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/testing%20stacks/Testing%20stacks%20Parameters%20II.ipynb)*
        
+       (d) Analyze output to decide which parameters to use going forward 
+*Evernote notebook [here](https://www.evernote.com/shard/s650/sh/138af148-ea28-416e-b79d-2550b2829d50/3dd0a2619d17e859)*
 
+<br>
+  **(3) Get a preliminary analysis of population structure between 7 populations in the Lanes 1 and 2 data.** *[Here is a helpful workflow diagram of population structure analysis](https://github.com/mfisher5/mf-fish546-2016/blob/master/Diagrams/PopGen_Workflow.md).*
+
+      (a) Run through the full `stacks` pipeline with Lanes 1 and 2 data
+*Jupyter notebook [here](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%20pipeline.ipynb)*
+
+      (b) Obtain measures of population structure (paired and overall Fst), and conduct Discriminant Analysis of Principle Components (DAPC)
+*Jupyter notebook [here](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%2C%20Analyses%20%2B%20Results.ipynb)*
+<br>
+  **(4) Compare sequencing output from 300ng and degraded DNA protocols to determine if these protocols will be used on the rest of the samples.**
+*Jupyter notebook [here](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%2C%20Analyses%20%2B%20Results.ipynb)*
+
+<br>
+<br>
  
 ### Repository structure
-*(Goals for repository structure - in process of transferring files)*
 
-**[RAW_DATA/](https://github.com/mfisher5/mf-fish546-2016/tree/master/raw_data)**     *raw data from all sequencing lanes*
+**[RAW_DATA/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/raw_data)**     *raw data from both sequencing lanes; FastQC on raw data; Flowcell Summaries from sequencing facility*
 
-**[L1samplesT142/](https://github.com/mfisher5/mf-fish546-2016/tree/master/samplesT142)**   *data separated by sample, from process_radtags, trimmed*
- 
-**[L1samplesT146/](https://github.com/mfisher5/mf-fish546-2016/tree/master/samplesT146)**   *data separated by sample, from process_radtags, not trimmed*
-
-**[UCStacksL1/](https://github.com/mfisher5/mf-fish546-2016/tree/master/UCstacksL1)**   *folder for practice runs of ustacks and cstacks to identify appropriate parameters*
-      
-    stacks_base/
-      
-    stacks_M2/
-     
-    stacks_m3/ 
-     
-    etc...
-
-**[SCRIPTS/](https://github.com/mfisher5/mf-fish546-2016/tree/master/scripts)**  *shell scripts to run stacks from command line, python scripts to generate shell scripts with repetitive code*
-
-**[NOTEBOOKS/](https://github.com/mfisher5/mf-fish546-2016/tree/master/notebooks)**  *jupyter notebooks-- in progress as I transfer over material from evernote*
-
-**ANALYSIS/** *output of analyses that are not included in stacks, ie. DAPC plot. Not complete.*
+**[L1L2samplesT142/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/L1L2samplesT142)**   *demultiplexed, quality filtered, and trimmed data from `process_radtags`*
 
 
-[**DIAGRAMS/**](https://github.com/mfisher5/mf-fish546-2016/tree/master/Diagrams) *helpful pictures and diagrams related to the Korean Pacific cod project, ie. sample site map
+**[L1L2stacks_m10/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/L1L2stacks_m10)**   *folder for `stacks` pipeline output, and output from end filtering steps. Uses samples from* L1L2samplesT142/
 
+**[SCRIPTS/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/scripts)**  *shell scripts to run stacks from command line, python scripts to generate shell scripts with repetitive code, barcode and population map files needed for `stacks`*
+	**[UndercallingHets_MB_CW/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/scripts/UndercallingHets_MB_CW)** *scripts that are used to conduct additional filtering on the output from `populations`. This includes creating genotype files at the end of the filtering steps to complete population structure analyses. *
 
-[**TranscriptomeBLAST/**](https://github.com/mfisher5/mf-fish546-2016/tree/master/TranscriptomeBLAST) *data and output of differential expression analysis for class project on the seastar transcriptome. 
+**[NOTEBOOKS/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/notebooks)**  *jupyter notebooks*
 
+**[ANALYSES/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/Analyses)** *output of analyses that are not included in stacks; ie. genepop analysis of population structure.*
+	**[dapc/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/Analyses/DAPC)** *scripts and graphs from R used to run DAPC analyses. *
+    **[fastq_SeqComparisons/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/Analyses/FASTQ%20_SeqComparisons)** *text files and R script used to compare the number of sequences between 500ng, 300ng, and degraded DNA samples output from `process_radtags`. *
+	**[genepop/](https://github.com/mfisher5/mf-fish546-PCod/tree/master/Analyses/Genepop)** *output from genepop analyses; contains only examples, as genepop output files too large to store on github. *
 
+[**DIAGRAMS/**](https://github.com/mfisher5/mf-fish546-2016/tree/master/Diagrams) *helpful pictures and diagrams linked in Jupyter notebooks, ie. sample site map and `genepop` executable screen*
 
-### Project Timeline: 
-
-#### Weeks 1 - 3: [Lane 1 full stacks pipeline](https://github.com/mfisher5/mf-fish546-2016/blob/master/notebooks/Lane1data_full%20stacks%20pipeline.ipynb)
-
-   ~~(1) Become familiar with Lane 1 sequencing data~~
-   
-   ~~(2) Learn important steps in the stacks pipeline using Lane 1 data~~
-
-#### Week 4: [Testing stacks Parameters](https://github.com/mfisher5/mf-fish546-2016/blob/master/notebooks/Testing%20stacks%20Parameters.ipynb)
-  ~~(1) Finish running different varieties of ustack and cstacks:~~
-  
-  
-  ~~(2) Run sstacks to align all individuals' sequences to each different catalog of loci generated in (1)~~
-  
-#### Week 5: [Testing stacks Parameters](https://github.com/mfisher5/mf-fish546-2016/blob/master/notebooks/Testing%20stacks%20Parameters.ipynb)
-
-  ~~(1) Calculate heterozygosities for all of the data from Week 4, to compare parameters~~
-  
-  ~~(2) start bowtie processing BLAST filtering to build reference genome~~
-  
-#### Week 6: 
-   (1) Repeat Week 5 comparisons made with *ustacks -m* parameter for the *ustacks -M* and *cstacks # individs in catalog*
-   
-   (2) Determine which quantitative measurements should matter the most when comparing parameter outputs. 
-   
-
-#### Week 7: 
-   (1) Decide which parameters to use
-   
-   (2) Produce reference genome from lane 1 data
-
-#### Week 8: 
-   (1) Run sstacks of lane 1 data against the new reference genome
-   
-   (2) Begin population structure analyses
 <br>
 <br>
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
