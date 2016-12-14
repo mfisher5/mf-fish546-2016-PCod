@@ -1,0 +1,165 @@
+Fst kernel smoothing: off
+Bootstrap resampling: off
+Percent samples limit per population: 0.5
+Locus Population limit: 2
+Minimum stack depth: 5
+Log liklihood filtering: off; threshold: 0
+Minor allele frequency cutoff: 0
+Maximum observed heterozygosity cutoff: 1
+Applying Fst correction: none.
+Parsing population map...
+The population map contained 57 samples, 3 population(s), 1 group(s).
+Reading the catalog...
+  Parsing populations_temp/batch_303.catalog.tags.tsv.gz
+  Parsing populations_temp/batch_303.catalog.snps.tsv.gz
+  Parsing populations_temp/batch_303.catalog.alleles.tsv.gz
+Reading matches to the catalog...
+  Parsing populations_temp/PO010715_06.1.matches.tsv.gz
+  Parsing populations_temp/PO010715_08.1.matches.tsv.gz
+  Parsing populations_temp/PO010715_10.1.matches.tsv.gz
+  Parsing populations_temp/PO010715_11.1.matches.tsv.gz
+  Parsing populations_temp/PO010715_17.1.matches.tsv.gz
+  Parsing populations_temp/PO010715_19.1.matches.tsv.gz
+  Parsing populations_temp/PO010715_27.1.matches.tsv.gz
+  Parsing populations_temp/PO010715_28.1.matches.tsv.gz
+  Parsing populations_temp/PO010715_29.1.matches.tsv.gz
+  Parsing populations_temp/PO020515_03.1.matches.tsv.gz
+  Parsing populations_temp/PO020515_05.1.matches.tsv.gz
+  Parsing populations_temp/PO020515_08.1.matches.tsv.gz
+  Parsing populations_temp/PO020515_09.1.matches.tsv.gz
+  Parsing populations_temp/PO020515_10.1.matches.tsv.gz
+  Parsing populations_temp/PO020515_14.1.matches.tsv.gz
+  Parsing populations_temp/PO020515_15.1.matches.tsv.gz
+  Parsing populations_temp/PO020515_16.1.matches.tsv.gz
+  Parsing populations_temp/PO020515_17.1.matches.tsv.gz
+  Parsing populations_temp/PO031715_13.1.matches.tsv.gz
+  Parsing populations_temp/PO031715_20.1.matches.tsv.gz
+  Parsing populations_temp/GE011215_01.1.matches.tsv.gz
+  Parsing populations_temp/GE011215_07.1.matches.tsv.gz
+  Parsing populations_temp/GE011215_08.1.matches.tsv.gz
+  Parsing populations_temp/GE011215_09.1.matches.tsv.gz
+  Parsing populations_temp/GE011215_10.1.matches.tsv.gz
+  Parsing populations_temp/GE011215_14.1.matches.tsv.gz
+  Parsing populations_temp/GE011215_15.1.matches.tsv.gz
+  Parsing populations_temp/GE011215_16.1.matches.tsv.gz
+  Parsing populations_temp/GE011215_20.1.matches.tsv.gz
+  Parsing populations_temp/GE011215_21.1.matches.tsv.gz
+  Parsing populations_temp/GE011215_24.1.matches.tsv.gz
+  Parsing populations_temp/GE011215_29.1.matches.tsv.gz
+  Parsing populations_temp/GE011215_30.1.matches.tsv.gz
+  Parsing populations_temp/GE012315_01.1.matches.tsv.gz
+  Parsing populations_temp/GE012315_03.1.matches.tsv.gz
+  Parsing populations_temp/GE012315_04.1.matches.tsv.gz
+  Parsing populations_temp/GE012315_05.1.matches.tsv.gz
+  Parsing populations_temp/GE012315_06.1.matches.tsv.gz
+  Parsing populations_temp/GE012315_08.1.matches.tsv.gz
+  Parsing populations_temp/GE012315_09.1.matches.tsv.gz
+  Parsing populations_temp/GE012315_10.1.matches.tsv.gz
+  Parsing populations_temp/GE012315_11.1.matches.tsv.gz
+  Parsing populations_temp/GE012315_17.1.matches.tsv.gz
+  Parsing populations_temp/GE012315_20.1.matches.tsv.gz
+  Parsing populations_temp/GE012315_22.1.matches.tsv.gz
+  Parsing populations_temp/NA021015_02.1.matches.tsv.gz
+  Parsing populations_temp/NA021015_03.1.matches.tsv.gz
+  Parsing populations_temp/NA021015_06.1.matches.tsv.gz
+  Parsing populations_temp/NA021015_08.1.matches.tsv.gz
+  Parsing populations_temp/NA021015_09.1.matches.tsv.gz
+  Parsing populations_temp/NA021015_10.1.matches.tsv.gz
+  Parsing populations_temp/NA021015_13.1.matches.tsv.gz
+  Parsing populations_temp/NA021015_14.1.matches.tsv.gz
+  Parsing populations_temp/NA021015_16.1.matches.tsv.gz
+  Parsing populations_temp/NA021015_17.1.matches.tsv.gz
+  Parsing populations_temp/NA021015_21.1.matches.tsv.gz
+  Parsing populations_temp/NA021015_22.1.matches.tsv.gz
+Catalog is not reference aligned, arbitrarily ordering catalog loci.
+Working on 57 samples.
+Working on 3 population(s):
+    Pohang: PO010715_06.1, PO010715_08.1, PO010715_10.1, PO010715_11.1, PO010715_17.1, PO010715_19.1, PO010715_27.1, PO010715_28.1, PO010715_29.1, PO020515_03.1, PO020515_05.1, PO020515_08.1, PO020515_09.1, PO020515_10.1, PO020515_14.1, PO020515_15.1, PO020515_16.1, PO020515_17.1, PO031715_13.1, PO031715_20.1
+    Geoje: GE011215_01.1, GE011215_07.1, GE011215_08.1, GE011215_09.1, GE011215_10.1, GE011215_14.1, GE011215_15.1, GE011215_16.1, GE011215_20.1, GE011215_21.1, GE011215_24.1, GE011215_29.1, GE011215_30.1, GE012315_01.1, GE012315_03.1, GE012315_04.1, GE012315_05.1, GE012315_06.1, GE012315_08.1, GE012315_09.1, GE012315_10.1, GE012315_11.1, GE012315_17.1, GE012315_20.1, GE012315_22.1
+    Namhae: NA021015_02.1, NA021015_03.1, NA021015_06.1, NA021015_08.1, NA021015_09.1, NA021015_10.1, NA021015_13.1, NA021015_14.1, NA021015_16.1, NA021015_17.1, NA021015_21.1, NA021015_22.1
+Working on 1 group(s) of populations:
+    defaultgrp: Pohang, Geoje, Namhae
+Populating observed haplotypes for 57 samples, 132417 loci.
+Removed 10 samples from loci that are below the minimum stack depth of 5x
+Removing 94630 loci that did not pass sample/population constraints... retained 37787 loci.
+Loading model outputs for 57 samples, 37787 loci.
+  Parsing populations_temp/PO010715_06.1.models.tsv.gz
+  Parsing populations_temp/PO010715_08.1.models.tsv.gz
+  Parsing populations_temp/PO010715_10.1.models.tsv.gz
+  Parsing populations_temp/PO010715_11.1.models.tsv.gz
+  Parsing populations_temp/PO010715_17.1.models.tsv.gz
+  Parsing populations_temp/PO010715_19.1.models.tsv.gz
+  Parsing populations_temp/PO010715_27.1.models.tsv.gz
+  Parsing populations_temp/PO010715_28.1.models.tsv.gz
+  Parsing populations_temp/PO010715_29.1.models.tsv.gz
+  Parsing populations_temp/PO020515_03.1.models.tsv.gz
+  Parsing populations_temp/PO020515_05.1.models.tsv.gz
+  Parsing populations_temp/PO020515_08.1.models.tsv.gz
+  Parsing populations_temp/PO020515_09.1.models.tsv.gz
+  Parsing populations_temp/PO020515_10.1.models.tsv.gz
+  Parsing populations_temp/PO020515_14.1.models.tsv.gz
+  Parsing populations_temp/PO020515_15.1.models.tsv.gz
+  Parsing populations_temp/PO020515_16.1.models.tsv.gz
+  Parsing populations_temp/PO020515_17.1.models.tsv.gz
+  Parsing populations_temp/PO031715_13.1.models.tsv.gz
+  Parsing populations_temp/PO031715_20.1.models.tsv.gz
+  Parsing populations_temp/GE011215_01.1.models.tsv.gz
+  Parsing populations_temp/GE011215_07.1.models.tsv.gz
+  Parsing populations_temp/GE011215_08.1.models.tsv.gz
+  Parsing populations_temp/GE011215_09.1.models.tsv.gz
+  Parsing populations_temp/GE011215_10.1.models.tsv.gz
+  Parsing populations_temp/GE011215_14.1.models.tsv.gz
+  Parsing populations_temp/GE011215_15.1.models.tsv.gz
+  Parsing populations_temp/GE011215_16.1.models.tsv.gz
+  Parsing populations_temp/GE011215_20.1.models.tsv.gz
+  Parsing populations_temp/GE011215_21.1.models.tsv.gz
+  Parsing populations_temp/GE011215_24.1.models.tsv.gz
+  Parsing populations_temp/GE011215_29.1.models.tsv.gz
+  Parsing populations_temp/GE011215_30.1.models.tsv.gz
+  Parsing populations_temp/GE012315_01.1.models.tsv.gz
+  Parsing populations_temp/GE012315_03.1.models.tsv.gz
+  Parsing populations_temp/GE012315_04.1.models.tsv.gz
+  Parsing populations_temp/GE012315_05.1.models.tsv.gz
+  Parsing populations_temp/GE012315_06.1.models.tsv.gz
+  Parsing populations_temp/GE012315_08.1.models.tsv.gz
+  Parsing populations_temp/GE012315_09.1.models.tsv.gz
+  Parsing populations_temp/GE012315_10.1.models.tsv.gz
+  Parsing populations_temp/GE012315_11.1.models.tsv.gz
+  Parsing populations_temp/GE012315_17.1.models.tsv.gz
+  Parsing populations_temp/GE012315_20.1.models.tsv.gz
+  Parsing populations_temp/GE012315_22.1.models.tsv.gz
+  Parsing populations_temp/NA021015_02.1.models.tsv.gz
+  Parsing populations_temp/NA021015_03.1.models.tsv.gz
+  Parsing populations_temp/NA021015_06.1.models.tsv.gz
+  Parsing populations_temp/NA021015_08.1.models.tsv.gz
+  Parsing populations_temp/NA021015_09.1.models.tsv.gz
+  Parsing populations_temp/NA021015_10.1.models.tsv.gz
+  Parsing populations_temp/NA021015_13.1.models.tsv.gz
+  Parsing populations_temp/NA021015_14.1.models.tsv.gz
+  Parsing populations_temp/NA021015_16.1.models.tsv.gz
+  Parsing populations_temp/NA021015_17.1.models.tsv.gz
+  Parsing populations_temp/NA021015_21.1.models.tsv.gz
+  Parsing populations_temp/NA021015_22.1.models.tsv.gz
+Generating nucleotide-level summary statistics for population 'Pohang'
+Population 'Pohang' contained 157 incompatible loci -- more than two alleles present.
+Generating nucleotide-level summary statistics for population 'Geoje'
+Population 'Geoje' contained 176 incompatible loci -- more than two alleles present.
+Generating nucleotide-level summary statistics for population 'Namhae'
+Population 'Namhae' contained 131 incompatible loci -- more than two alleles present.
+Tallying loci across populations...done.
+Pruned 888 variant sites due to filter constraints (more with --verbose).
+Removing 296 additional loci for which all variant sites were filtered... retained 37491 loci.
+Regenerating nucleotide-level summary statistics for population 'Pohang'
+Population 'Pohang' contained 0 incompatible loci -- more than two alleles present.
+Regenerating nucleotide-level summary statistics for population 'Geoje'
+Population 'Geoje' contained 0 incompatible loci -- more than two alleles present.
+Regenerating nucleotide-level summary statistics for population 'Namhae'
+Population 'Namhae' contained 0 incompatible loci -- more than two alleles present.
+Re-tallying loci across populations...done.
+Generating haplotype-level summary statistics for population 'Pohang'
+Generating haplotype-level summary statistics for population 'Geoje'
+Generating haplotype-level summary statistics for population 'Namhae'
+Writing 37491 loci to summary statistics file, 'populations_temp/batch_303.sumstats.tsv'
+Writing 37491 loci to observed haplotype file, 'populations_temp/batch_303.haplotypes.tsv'
+Writing population data to GenePop file 'populations_temp/batch_303.genepop'
+Populations is done.

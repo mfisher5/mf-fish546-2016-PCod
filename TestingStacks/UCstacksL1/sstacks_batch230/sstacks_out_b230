@@ -1,0 +1,631 @@
+Searching for matches by sequence identity...
+  Parsing stacks_M2/batch_230.catalog.tags.tsv.gz
+  Parsing stacks_M2/batch_230.catalog.snps.tsv.gz
+  Parsing stacks_M2/batch_230.catalog.alleles.tsv.gz
+Processing sample 'stacks_M2/PO010715_06.1' [1 of 57]
+  Parsing stacks_M2/PO010715_06.1.tags.tsv.gz
+  Parsing stacks_M2/PO010715_06.1.snps.tsv.gz
+  Parsing stacks_M2/PO010715_06.1.alleles.tsv.gz
+Searching for sequence matches...
+42332 stacks compared against the catalog containing 133000 loci.
+  38537 matching loci, 374 contained no verified haplotypes.
+  113 loci matched more than one catalog locus and were excluded.
+  261 loci contained SNPs unaccounted for in the catalog and were excluded.
+  43135 total haplotypes examined from matching loci, 42543 verified.
+Outputing to file sstacks_batch230/PO010715_06.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO010715_27.1' [2 of 57]
+  Parsing stacks_M2/PO010715_27.1.tags.tsv.gz
+  Parsing stacks_M2/PO010715_27.1.snps.tsv.gz
+  Parsing stacks_M2/PO010715_27.1.alleles.tsv.gz
+Searching for sequence matches...
+42359 stacks compared against the catalog containing 133000 loci.
+  39110 matching loci, 416 contained no verified haplotypes.
+  131 loci matched more than one catalog locus and were excluded.
+  285 loci contained SNPs unaccounted for in the catalog and were excluded.
+  44164 total haplotypes examined from matching loci, 43503 verified.
+Outputing to file sstacks_batch230/PO010715_27.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO010715_28.1' [3 of 57]
+  Parsing stacks_M2/PO010715_28.1.tags.tsv.gz
+  Parsing stacks_M2/PO010715_28.1.snps.tsv.gz
+  Parsing stacks_M2/PO010715_28.1.alleles.tsv.gz
+Searching for sequence matches...
+43792 stacks compared against the catalog containing 133000 loci.
+  39745 matching loci, 419 contained no verified haplotypes.
+  118 loci matched more than one catalog locus and were excluded.
+  301 loci contained SNPs unaccounted for in the catalog and were excluded.
+  45041 total haplotypes examined from matching loci, 44389 verified.
+Outputing to file sstacks_batch230/PO010715_28.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO010715_29.1' [4 of 57]
+  Parsing stacks_M2/PO010715_29.1.tags.tsv.gz
+  Parsing stacks_M2/PO010715_29.1.snps.tsv.gz
+  Parsing stacks_M2/PO010715_29.1.alleles.tsv.gz
+Searching for sequence matches...
+42409 stacks compared against the catalog containing 133000 loci.
+  39591 matching loci, 346 contained no verified haplotypes.
+  116 loci matched more than one catalog locus and were excluded.
+  230 loci contained SNPs unaccounted for in the catalog and were excluded.
+  44865 total haplotypes examined from matching loci, 44293 verified.
+Outputing to file sstacks_batch230/PO010715_29.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE011215_08.1' [5 of 57]
+  Parsing stacks_M2/GE011215_08.1.tags.tsv.gz
+  Parsing stacks_M2/GE011215_08.1.snps.tsv.gz
+  Parsing stacks_M2/GE011215_08.1.alleles.tsv.gz
+Searching for sequence matches...
+40546 stacks compared against the catalog containing 133000 loci.
+  38104 matching loci, 428 contained no verified haplotypes.
+  120 loci matched more than one catalog locus and were excluded.
+  308 loci contained SNPs unaccounted for in the catalog and were excluded.
+  42801 total haplotypes examined from matching loci, 42158 verified.
+Outputing to file sstacks_batch230/GE011215_08.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE011215_09.1' [6 of 57]
+  Parsing stacks_M2/GE011215_09.1.tags.tsv.gz
+  Parsing stacks_M2/GE011215_09.1.snps.tsv.gz
+  Parsing stacks_M2/GE011215_09.1.alleles.tsv.gz
+Searching for sequence matches...
+42556 stacks compared against the catalog containing 133000 loci.
+  42534 matching loci, 98 contained no verified haplotypes.
+  93 loci matched more than one catalog locus and were excluded.
+  5 loci contained SNPs unaccounted for in the catalog and were excluded.
+  48729 total haplotypes examined from matching loci, 48499 verified.
+Outputing to file sstacks_batch230/GE011215_09.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE011215_14.1' [7 of 57]
+  Parsing stacks_M2/GE011215_14.1.tags.tsv.gz
+  Parsing stacks_M2/GE011215_14.1.snps.tsv.gz
+  Parsing stacks_M2/GE011215_14.1.alleles.tsv.gz
+Searching for sequence matches...
+43592 stacks compared against the catalog containing 133000 loci.
+  43567 matching loci, 107 contained no verified haplotypes.
+  103 loci matched more than one catalog locus and were excluded.
+  4 loci contained SNPs unaccounted for in the catalog and were excluded.
+  50279 total haplotypes examined from matching loci, 50028 verified.
+Outputing to file sstacks_batch230/GE011215_14.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE011215_15.1' [8 of 57]
+  Parsing stacks_M2/GE011215_15.1.tags.tsv.gz
+  Parsing stacks_M2/GE011215_15.1.snps.tsv.gz
+  Parsing stacks_M2/GE011215_15.1.alleles.tsv.gz
+Searching for sequence matches...
+58605 stacks compared against the catalog containing 133000 loci.
+  58579 matching loci, 98 contained no verified haplotypes.
+  96 loci matched more than one catalog locus and were excluded.
+  2 loci contained SNPs unaccounted for in the catalog and were excluded.
+  66946 total haplotypes examined from matching loci, 66697 verified.
+Outputing to file sstacks_batch230/GE011215_15.1.matches.tsv.gz
+Processing sample 'stacks_M2/NA021015_16.1' [9 of 57]
+  Parsing stacks_M2/NA021015_16.1.tags.tsv.gz
+  Parsing stacks_M2/NA021015_16.1.snps.tsv.gz
+  Parsing stacks_M2/NA021015_16.1.alleles.tsv.gz
+Searching for sequence matches...
+41707 stacks compared against the catalog containing 133000 loci.
+  41670 matching loci, 111 contained no verified haplotypes.
+  111 loci matched more than one catalog locus and were excluded.
+  0 loci contained SNPs unaccounted for in the catalog and were excluded.
+  48043 total haplotypes examined from matching loci, 47768 verified.
+Outputing to file sstacks_batch230/NA021015_16.1.matches.tsv.gz
+Processing sample 'stacks_M2/NA021015_21.1' [10 of 57]
+  Parsing stacks_M2/NA021015_21.1.tags.tsv.gz
+  Parsing stacks_M2/NA021015_21.1.snps.tsv.gz
+  Parsing stacks_M2/NA021015_21.1.alleles.tsv.gz
+Searching for sequence matches...
+41124 stacks compared against the catalog containing 133000 loci.
+  41104 matching loci, 113 contained no verified haplotypes.
+  112 loci matched more than one catalog locus and were excluded.
+  1 loci contained SNPs unaccounted for in the catalog and were excluded.
+  47069 total haplotypes examined from matching loci, 46792 verified.
+Outputing to file sstacks_batch230/NA021015_21.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE011215_10.1' [11 of 57]
+  Parsing stacks_M2/GE011215_10.1.tags.tsv.gz
+  Parsing stacks_M2/GE011215_10.1.snps.tsv.gz
+  Parsing stacks_M2/GE011215_10.1.alleles.tsv.gz
+Searching for sequence matches...
+43444 stacks compared against the catalog containing 133000 loci.
+  40500 matching loci, 386 contained no verified haplotypes.
+  118 loci matched more than one catalog locus and were excluded.
+  268 loci contained SNPs unaccounted for in the catalog and were excluded.
+  45924 total haplotypes examined from matching loci, 45289 verified.
+Outputing to file sstacks_batch230/GE011215_10.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE012315_01.1' [12 of 57]
+  Parsing stacks_M2/GE012315_01.1.tags.tsv.gz
+  Parsing stacks_M2/GE012315_01.1.snps.tsv.gz
+  Parsing stacks_M2/GE012315_01.1.alleles.tsv.gz
+Searching for sequence matches...
+38808 stacks compared against the catalog containing 133000 loci.
+  38205 matching loci, 352 contained no verified haplotypes.
+  122 loci matched more than one catalog locus and were excluded.
+  230 loci contained SNPs unaccounted for in the catalog and were excluded.
+  42928 total haplotypes examined from matching loci, 42352 verified.
+Outputing to file sstacks_batch230/GE012315_01.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO020515_05.1' [13 of 57]
+  Parsing stacks_M2/PO020515_05.1.tags.tsv.gz
+  Parsing stacks_M2/PO020515_05.1.snps.tsv.gz
+  Parsing stacks_M2/PO020515_05.1.alleles.tsv.gz
+Searching for sequence matches...
+40975 stacks compared against the catalog containing 133000 loci.
+  40950 matching loci, 100 contained no verified haplotypes.
+  100 loci matched more than one catalog locus and were excluded.
+  0 loci contained SNPs unaccounted for in the catalog and were excluded.
+  46863 total haplotypes examined from matching loci, 46634 verified.
+Outputing to file sstacks_batch230/PO020515_05.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO020515_09.1' [14 of 57]
+  Parsing stacks_M2/PO020515_09.1.tags.tsv.gz
+  Parsing stacks_M2/PO020515_09.1.snps.tsv.gz
+  Parsing stacks_M2/PO020515_09.1.alleles.tsv.gz
+Searching for sequence matches...
+41158 stacks compared against the catalog containing 133000 loci.
+  39035 matching loci, 478 contained no verified haplotypes.
+  100 loci matched more than one catalog locus and were excluded.
+  378 loci contained SNPs unaccounted for in the catalog and were excluded.
+  44003 total haplotypes examined from matching loci, 43305 verified.
+Outputing to file sstacks_batch230/PO020515_09.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO020515_10.1' [15 of 57]
+  Parsing stacks_M2/PO020515_10.1.tags.tsv.gz
+  Parsing stacks_M2/PO020515_10.1.snps.tsv.gz
+  Parsing stacks_M2/PO020515_10.1.alleles.tsv.gz
+Searching for sequence matches...
+43653 stacks compared against the catalog containing 133000 loci.
+  43624 matching loci, 90 contained no verified haplotypes.
+  90 loci matched more than one catalog locus and were excluded.
+  0 loci contained SNPs unaccounted for in the catalog and were excluded.
+  49853 total haplotypes examined from matching loci, 49616 verified.
+Outputing to file sstacks_batch230/PO020515_10.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE011215_07.1' [16 of 57]
+  Parsing stacks_M2/GE011215_07.1.tags.tsv.gz
+  Parsing stacks_M2/GE011215_07.1.snps.tsv.gz
+  Parsing stacks_M2/GE011215_07.1.alleles.tsv.gz
+Searching for sequence matches...
+39915 stacks compared against the catalog containing 133000 loci.
+  39915 matching loci, 2 contained no verified haplotypes.
+  2 loci matched more than one catalog locus and were excluded.
+  0 loci contained SNPs unaccounted for in the catalog and were excluded.
+  45600 total haplotypes examined from matching loci, 45594 verified.
+Outputing to file sstacks_batch230/GE011215_07.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE011215_16.1' [17 of 57]
+  Parsing stacks_M2/GE011215_16.1.tags.tsv.gz
+  Parsing stacks_M2/GE011215_16.1.snps.tsv.gz
+  Parsing stacks_M2/GE011215_16.1.alleles.tsv.gz
+Searching for sequence matches...
+41552 stacks compared against the catalog containing 133000 loci.
+  41523 matching loci, 108 contained no verified haplotypes.
+  98 loci matched more than one catalog locus and were excluded.
+  10 loci contained SNPs unaccounted for in the catalog and were excluded.
+  47302 total haplotypes examined from matching loci, 47039 verified.
+Outputing to file sstacks_batch230/GE011215_16.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE011215_29.1' [18 of 57]
+  Parsing stacks_M2/GE011215_29.1.tags.tsv.gz
+  Parsing stacks_M2/GE011215_29.1.snps.tsv.gz
+  Parsing stacks_M2/GE011215_29.1.alleles.tsv.gz
+Searching for sequence matches...
+38473 stacks compared against the catalog containing 133000 loci.
+  37571 matching loci, 529 contained no verified haplotypes.
+  110 loci matched more than one catalog locus and were excluded.
+  419 loci contained SNPs unaccounted for in the catalog and were excluded.
+  41963 total haplotypes examined from matching loci, 41218 verified.
+Outputing to file sstacks_batch230/GE011215_29.1.matches.tsv.gz
+Processing sample 'stacks_M2/NA021015_02.1' [19 of 57]
+  Parsing stacks_M2/NA021015_02.1.tags.tsv.gz
+  Parsing stacks_M2/NA021015_02.1.snps.tsv.gz
+  Parsing stacks_M2/NA021015_02.1.alleles.tsv.gz
+Searching for sequence matches...
+39675 stacks compared against the catalog containing 133000 loci.
+  39639 matching loci, 118 contained no verified haplotypes.
+  114 loci matched more than one catalog locus and were excluded.
+  4 loci contained SNPs unaccounted for in the catalog and were excluded.
+  45477 total haplotypes examined from matching loci, 45199 verified.
+Outputing to file sstacks_batch230/NA021015_02.1.matches.tsv.gz
+Processing sample 'stacks_M2/NA021015_03.1' [20 of 57]
+  Parsing stacks_M2/NA021015_03.1.tags.tsv.gz
+  Parsing stacks_M2/NA021015_03.1.snps.tsv.gz
+  Parsing stacks_M2/NA021015_03.1.alleles.tsv.gz
+Searching for sequence matches...
+39464 stacks compared against the catalog containing 133000 loci.
+  38932 matching loci, 429 contained no verified haplotypes.
+  103 loci matched more than one catalog locus and were excluded.
+  326 loci contained SNPs unaccounted for in the catalog and were excluded.
+  43790 total haplotypes examined from matching loci, 43151 verified.
+Outputing to file sstacks_batch230/NA021015_03.1.matches.tsv.gz
+Processing sample 'stacks_M2/NA021015_08.1' [21 of 57]
+  Parsing stacks_M2/NA021015_08.1.tags.tsv.gz
+  Parsing stacks_M2/NA021015_08.1.snps.tsv.gz
+  Parsing stacks_M2/NA021015_08.1.alleles.tsv.gz
+Searching for sequence matches...
+38147 stacks compared against the catalog containing 133000 loci.
+  37610 matching loci, 440 contained no verified haplotypes.
+  118 loci matched more than one catalog locus and were excluded.
+  322 loci contained SNPs unaccounted for in the catalog and were excluded.
+  42299 total haplotypes examined from matching loci, 41635 verified.
+Outputing to file sstacks_batch230/NA021015_08.1.matches.tsv.gz
+Processing sample 'stacks_M2/NA021015_13.1' [22 of 57]
+  Parsing stacks_M2/NA021015_13.1.tags.tsv.gz
+  Parsing stacks_M2/NA021015_13.1.snps.tsv.gz
+  Parsing stacks_M2/NA021015_13.1.alleles.tsv.gz
+Searching for sequence matches...
+40994 stacks compared against the catalog containing 133000 loci.
+  40951 matching loci, 95 contained no verified haplotypes.
+  93 loci matched more than one catalog locus and were excluded.
+  2 loci contained SNPs unaccounted for in the catalog and were excluded.
+  47258 total haplotypes examined from matching loci, 47006 verified.
+Outputing to file sstacks_batch230/NA021015_13.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE012315_03.1' [23 of 57]
+  Parsing stacks_M2/GE012315_03.1.tags.tsv.gz
+  Parsing stacks_M2/GE012315_03.1.snps.tsv.gz
+  Parsing stacks_M2/GE012315_03.1.alleles.tsv.gz
+Searching for sequence matches...
+40500 stacks compared against the catalog containing 133000 loci.
+  40474 matching loci, 93 contained no verified haplotypes.
+  88 loci matched more than one catalog locus and were excluded.
+  5 loci contained SNPs unaccounted for in the catalog and were excluded.
+  46227 total haplotypes examined from matching loci, 46005 verified.
+Outputing to file sstacks_batch230/GE012315_03.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE012315_22.1' [24 of 57]
+  Parsing stacks_M2/GE012315_22.1.tags.tsv.gz
+  Parsing stacks_M2/GE012315_22.1.snps.tsv.gz
+  Parsing stacks_M2/GE012315_22.1.alleles.tsv.gz
+Searching for sequence matches...
+39715 stacks compared against the catalog containing 133000 loci.
+  38379 matching loci, 437 contained no verified haplotypes.
+  124 loci matched more than one catalog locus and were excluded.
+  313 loci contained SNPs unaccounted for in the catalog and were excluded.
+  43182 total haplotypes examined from matching loci, 42487 verified.
+Outputing to file sstacks_batch230/GE012315_22.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE012315_04.1' [25 of 57]
+  Parsing stacks_M2/GE012315_04.1.tags.tsv.gz
+  Parsing stacks_M2/GE012315_04.1.snps.tsv.gz
+  Parsing stacks_M2/GE012315_04.1.alleles.tsv.gz
+Searching for sequence matches...
+42585 stacks compared against the catalog containing 133000 loci.
+  39587 matching loci, 797 contained no verified haplotypes.
+  114 loci matched more than one catalog locus and were excluded.
+  683 loci contained SNPs unaccounted for in the catalog and were excluded.
+  44385 total haplotypes examined from matching loci, 43345 verified.
+Outputing to file sstacks_batch230/GE012315_04.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE012315_05.1' [26 of 57]
+  Parsing stacks_M2/GE012315_05.1.tags.tsv.gz
+  Parsing stacks_M2/GE012315_05.1.snps.tsv.gz
+  Parsing stacks_M2/GE012315_05.1.alleles.tsv.gz
+Searching for sequence matches...
+42365 stacks compared against the catalog containing 133000 loci.
+  40167 matching loci, 414 contained no verified haplotypes.
+  88 loci matched more than one catalog locus and were excluded.
+  326 loci contained SNPs unaccounted for in the catalog and were excluded.
+  45492 total haplotypes examined from matching loci, 44897 verified.
+Outputing to file sstacks_batch230/GE012315_05.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE012315_06.1' [27 of 57]
+  Parsing stacks_M2/GE012315_06.1.tags.tsv.gz
+  Parsing stacks_M2/GE012315_06.1.snps.tsv.gz
+  Parsing stacks_M2/GE012315_06.1.alleles.tsv.gz
+Searching for sequence matches...
+42835 stacks compared against the catalog containing 133000 loci.
+  42803 matching loci, 76 contained no verified haplotypes.
+  67 loci matched more than one catalog locus and were excluded.
+  9 loci contained SNPs unaccounted for in the catalog and were excluded.
+  49085 total haplotypes examined from matching loci, 48915 verified.
+Outputing to file sstacks_batch230/GE012315_06.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO010715_19.1' [28 of 57]
+  Parsing stacks_M2/PO010715_19.1.tags.tsv.gz
+  Parsing stacks_M2/PO010715_19.1.snps.tsv.gz
+  Parsing stacks_M2/PO010715_19.1.alleles.tsv.gz
+Searching for sequence matches...
+42224 stacks compared against the catalog containing 133000 loci.
+  39456 matching loci, 521 contained no verified haplotypes.
+  111 loci matched more than one catalog locus and were excluded.
+  410 loci contained SNPs unaccounted for in the catalog and were excluded.
+  44304 total haplotypes examined from matching loci, 43550 verified.
+Outputing to file sstacks_batch230/PO010715_19.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO031715_20.1' [29 of 57]
+  Parsing stacks_M2/PO031715_20.1.tags.tsv.gz
+  Parsing stacks_M2/PO031715_20.1.snps.tsv.gz
+  Parsing stacks_M2/PO031715_20.1.alleles.tsv.gz
+Searching for sequence matches...
+43971 stacks compared against the catalog containing 133000 loci.
+  40044 matching loci, 546 contained no verified haplotypes.
+  127 loci matched more than one catalog locus and were excluded.
+  419 loci contained SNPs unaccounted for in the catalog and were excluded.
+  45022 total haplotypes examined from matching loci, 44206 verified.
+Outputing to file sstacks_batch230/PO031715_20.1.matches.tsv.gz
+Processing sample 'stacks_M2/NA021015_10.1' [30 of 57]
+  Parsing stacks_M2/NA021015_10.1.tags.tsv.gz
+  Parsing stacks_M2/NA021015_10.1.snps.tsv.gz
+  Parsing stacks_M2/NA021015_10.1.alleles.tsv.gz
+Searching for sequence matches...
+43327 stacks compared against the catalog containing 133000 loci.
+  43304 matching loci, 114 contained no verified haplotypes.
+  106 loci matched more than one catalog locus and were excluded.
+  8 loci contained SNPs unaccounted for in the catalog and were excluded.
+  49000 total haplotypes examined from matching loci, 48744 verified.
+Outputing to file sstacks_batch230/NA021015_10.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE011215_20.1' [31 of 57]
+  Parsing stacks_M2/GE011215_20.1.tags.tsv.gz
+  Parsing stacks_M2/GE011215_20.1.snps.tsv.gz
+  Parsing stacks_M2/GE011215_20.1.alleles.tsv.gz
+Searching for sequence matches...
+44066 stacks compared against the catalog containing 133000 loci.
+  40375 matching loci, 521 contained no verified haplotypes.
+  126 loci matched more than one catalog locus and were excluded.
+  395 loci contained SNPs unaccounted for in the catalog and were excluded.
+  45277 total haplotypes examined from matching loci, 44488 verified.
+Outputing to file sstacks_batch230/GE011215_20.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO020515_03.1' [32 of 57]
+  Parsing stacks_M2/PO020515_03.1.tags.tsv.gz
+  Parsing stacks_M2/PO020515_03.1.snps.tsv.gz
+  Parsing stacks_M2/PO020515_03.1.alleles.tsv.gz
+Searching for sequence matches...
+42657 stacks compared against the catalog containing 133000 loci.
+  42622 matching loci, 134 contained no verified haplotypes.
+  133 loci matched more than one catalog locus and were excluded.
+  1 loci contained SNPs unaccounted for in the catalog and were excluded.
+  48377 total haplotypes examined from matching loci, 48054 verified.
+Outputing to file sstacks_batch230/PO020515_03.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO020515_08.1' [33 of 57]
+  Parsing stacks_M2/PO020515_08.1.tags.tsv.gz
+  Parsing stacks_M2/PO020515_08.1.snps.tsv.gz
+  Parsing stacks_M2/PO020515_08.1.alleles.tsv.gz
+Searching for sequence matches...
+49265 stacks compared against the catalog containing 133000 loci.
+  49227 matching loci, 105 contained no verified haplotypes.
+  105 loci matched more than one catalog locus and were excluded.
+  0 loci contained SNPs unaccounted for in the catalog and were excluded.
+  55819 total haplotypes examined from matching loci, 55564 verified.
+Outputing to file sstacks_batch230/PO020515_08.1.matches.tsv.gz
+Processing sample 'stacks_M2/NA021015_17.1' [34 of 57]
+  Parsing stacks_M2/NA021015_17.1.tags.tsv.gz
+  Parsing stacks_M2/NA021015_17.1.snps.tsv.gz
+  Parsing stacks_M2/NA021015_17.1.alleles.tsv.gz
+Searching for sequence matches...
+44072 stacks compared against the catalog containing 133000 loci.
+  44030 matching loci, 102 contained no verified haplotypes.
+  100 loci matched more than one catalog locus and were excluded.
+  2 loci contained SNPs unaccounted for in the catalog and were excluded.
+  50098 total haplotypes examined from matching loci, 49847 verified.
+Outputing to file sstacks_batch230/NA021015_17.1.matches.tsv.gz
+Processing sample 'stacks_M2/NA021015_22.1' [35 of 57]
+  Parsing stacks_M2/NA021015_22.1.tags.tsv.gz
+  Parsing stacks_M2/NA021015_22.1.snps.tsv.gz
+  Parsing stacks_M2/NA021015_22.1.alleles.tsv.gz
+Searching for sequence matches...
+47685 stacks compared against the catalog containing 133000 loci.
+  47657 matching loci, 99 contained no verified haplotypes.
+  97 loci matched more than one catalog locus and were excluded.
+  2 loci contained SNPs unaccounted for in the catalog and were excluded.
+  53984 total haplotypes examined from matching loci, 53756 verified.
+Outputing to file sstacks_batch230/NA021015_22.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO010715_11.1' [36 of 57]
+  Parsing stacks_M2/PO010715_11.1.tags.tsv.gz
+  Parsing stacks_M2/PO010715_11.1.snps.tsv.gz
+  Parsing stacks_M2/PO010715_11.1.alleles.tsv.gz
+Searching for sequence matches...
+45831 stacks compared against the catalog containing 133000 loci.
+  45800 matching loci, 107 contained no verified haplotypes.
+  107 loci matched more than one catalog locus and were excluded.
+  0 loci contained SNPs unaccounted for in the catalog and were excluded.
+  52005 total haplotypes examined from matching loci, 51730 verified.
+Outputing to file sstacks_batch230/PO010715_11.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO020515_16.1' [37 of 57]
+  Parsing stacks_M2/PO020515_16.1.tags.tsv.gz
+  Parsing stacks_M2/PO020515_16.1.snps.tsv.gz
+  Parsing stacks_M2/PO020515_16.1.alleles.tsv.gz
+Searching for sequence matches...
+40382 stacks compared against the catalog containing 133000 loci.
+  38500 matching loci, 491 contained no verified haplotypes.
+  125 loci matched more than one catalog locus and were excluded.
+  366 loci contained SNPs unaccounted for in the catalog and were excluded.
+  43143 total haplotypes examined from matching loci, 42418 verified.
+Outputing to file sstacks_batch230/PO020515_16.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE011215_21.1' [38 of 57]
+  Parsing stacks_M2/GE011215_21.1.tags.tsv.gz
+  Parsing stacks_M2/GE011215_21.1.snps.tsv.gz
+  Parsing stacks_M2/GE011215_21.1.alleles.tsv.gz
+Searching for sequence matches...
+40954 stacks compared against the catalog containing 133000 loci.
+  39861 matching loci, 397 contained no verified haplotypes.
+  108 loci matched more than one catalog locus and were excluded.
+  289 loci contained SNPs unaccounted for in the catalog and were excluded.
+  45077 total haplotypes examined from matching loci, 44456 verified.
+Outputing to file sstacks_batch230/GE011215_21.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE011215_30.1' [39 of 57]
+  Parsing stacks_M2/GE011215_30.1.tags.tsv.gz
+  Parsing stacks_M2/GE011215_30.1.snps.tsv.gz
+  Parsing stacks_M2/GE011215_30.1.alleles.tsv.gz
+Searching for sequence matches...
+43645 stacks compared against the catalog containing 133000 loci.
+  43611 matching loci, 98 contained no verified haplotypes.
+  98 loci matched more than one catalog locus and were excluded.
+  0 loci contained SNPs unaccounted for in the catalog and were excluded.
+  50166 total haplotypes examined from matching loci, 49933 verified.
+Outputing to file sstacks_batch230/GE011215_30.1.matches.tsv.gz
+Processing sample 'stacks_M2/NA021015_14.1' [40 of 57]
+  Parsing stacks_M2/NA021015_14.1.tags.tsv.gz
+  Parsing stacks_M2/NA021015_14.1.snps.tsv.gz
+  Parsing stacks_M2/NA021015_14.1.alleles.tsv.gz
+Searching for sequence matches...
+41836 stacks compared against the catalog containing 133000 loci.
+  41817 matching loci, 116 contained no verified haplotypes.
+  114 loci matched more than one catalog locus and were excluded.
+  2 loci contained SNPs unaccounted for in the catalog and were excluded.
+  48067 total haplotypes examined from matching loci, 47795 verified.
+Outputing to file sstacks_batch230/NA021015_14.1.matches.tsv.gz
+Processing sample 'stacks_M2/NA021015_06.1' [41 of 57]
+  Parsing stacks_M2/NA021015_06.1.tags.tsv.gz
+  Parsing stacks_M2/NA021015_06.1.snps.tsv.gz
+  Parsing stacks_M2/NA021015_06.1.alleles.tsv.gz
+Searching for sequence matches...
+42398 stacks compared against the catalog containing 133000 loci.
+  42367 matching loci, 113 contained no verified haplotypes.
+  110 loci matched more than one catalog locus and were excluded.
+  3 loci contained SNPs unaccounted for in the catalog and were excluded.
+  49125 total haplotypes examined from matching loci, 48852 verified.
+Outputing to file sstacks_batch230/NA021015_06.1.matches.tsv.gz
+Processing sample 'stacks_M2/NA021015_09.1' [42 of 57]
+  Parsing stacks_M2/NA021015_09.1.tags.tsv.gz
+  Parsing stacks_M2/NA021015_09.1.snps.tsv.gz
+  Parsing stacks_M2/NA021015_09.1.alleles.tsv.gz
+Searching for sequence matches...
+42051 stacks compared against the catalog containing 133000 loci.
+  42017 matching loci, 116 contained no verified haplotypes.
+  115 loci matched more than one catalog locus and were excluded.
+  1 loci contained SNPs unaccounted for in the catalog and were excluded.
+  48457 total haplotypes examined from matching loci, 48175 verified.
+Outputing to file sstacks_batch230/NA021015_09.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO020515_17.1' [43 of 57]
+  Parsing stacks_M2/PO020515_17.1.tags.tsv.gz
+  Parsing stacks_M2/PO020515_17.1.snps.tsv.gz
+  Parsing stacks_M2/PO020515_17.1.alleles.tsv.gz
+Searching for sequence matches...
+41230 stacks compared against the catalog containing 133000 loci.
+  41202 matching loci, 105 contained no verified haplotypes.
+  104 loci matched more than one catalog locus and were excluded.
+  1 loci contained SNPs unaccounted for in the catalog and were excluded.
+  47550 total haplotypes examined from matching loci, 47295 verified.
+Outputing to file sstacks_batch230/PO020515_17.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO010715_17.1' [44 of 57]
+  Parsing stacks_M2/PO010715_17.1.tags.tsv.gz
+  Parsing stacks_M2/PO010715_17.1.snps.tsv.gz
+  Parsing stacks_M2/PO010715_17.1.alleles.tsv.gz
+Searching for sequence matches...
+41074 stacks compared against the catalog containing 133000 loci.
+  41060 matching loci, 122 contained no verified haplotypes.
+  122 loci matched more than one catalog locus and were excluded.
+  0 loci contained SNPs unaccounted for in the catalog and were excluded.
+  47406 total haplotypes examined from matching loci, 47104 verified.
+Outputing to file sstacks_batch230/PO010715_17.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO020515_15.1' [45 of 57]
+  Parsing stacks_M2/PO020515_15.1.tags.tsv.gz
+  Parsing stacks_M2/PO020515_15.1.snps.tsv.gz
+  Parsing stacks_M2/PO020515_15.1.alleles.tsv.gz
+Searching for sequence matches...
+41143 stacks compared against the catalog containing 133000 loci.
+  41117 matching loci, 107 contained no verified haplotypes.
+  107 loci matched more than one catalog locus and were excluded.
+  0 loci contained SNPs unaccounted for in the catalog and were excluded.
+  47325 total haplotypes examined from matching loci, 47071 verified.
+Outputing to file sstacks_batch230/PO020515_15.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO010715_10.1' [46 of 57]
+  Parsing stacks_M2/PO010715_10.1.tags.tsv.gz
+  Parsing stacks_M2/PO010715_10.1.snps.tsv.gz
+  Parsing stacks_M2/PO010715_10.1.alleles.tsv.gz
+Searching for sequence matches...
+40829 stacks compared against the catalog containing 133000 loci.
+  40804 matching loci, 102 contained no verified haplotypes.
+  102 loci matched more than one catalog locus and were excluded.
+  0 loci contained SNPs unaccounted for in the catalog and were excluded.
+  46820 total haplotypes examined from matching loci, 46558 verified.
+Outputing to file sstacks_batch230/PO010715_10.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE011215_01.1' [47 of 57]
+  Parsing stacks_M2/GE011215_01.1.tags.tsv.gz
+  Parsing stacks_M2/GE011215_01.1.snps.tsv.gz
+  Parsing stacks_M2/GE011215_01.1.alleles.tsv.gz
+Searching for sequence matches...
+41656 stacks compared against the catalog containing 133000 loci.
+  41626 matching loci, 96 contained no verified haplotypes.
+  95 loci matched more than one catalog locus and were excluded.
+  1 loci contained SNPs unaccounted for in the catalog and were excluded.
+  47833 total haplotypes examined from matching loci, 47599 verified.
+Outputing to file sstacks_batch230/GE011215_01.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE011215_24.1' [48 of 57]
+  Parsing stacks_M2/GE011215_24.1.tags.tsv.gz
+  Parsing stacks_M2/GE011215_24.1.snps.tsv.gz
+  Parsing stacks_M2/GE011215_24.1.alleles.tsv.gz
+Searching for sequence matches...
+40159 stacks compared against the catalog containing 133000 loci.
+  39511 matching loci, 314 contained no verified haplotypes.
+  124 loci matched more than one catalog locus and were excluded.
+  190 loci contained SNPs unaccounted for in the catalog and were excluded.
+  44829 total haplotypes examined from matching loci, 44274 verified.
+Outputing to file sstacks_batch230/GE011215_24.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO031715_13.1' [49 of 57]
+  Parsing stacks_M2/PO031715_13.1.tags.tsv.gz
+  Parsing stacks_M2/PO031715_13.1.snps.tsv.gz
+  Parsing stacks_M2/PO031715_13.1.alleles.tsv.gz
+Searching for sequence matches...
+40613 stacks compared against the catalog containing 133000 loci.
+  39370 matching loci, 420 contained no verified haplotypes.
+  103 loci matched more than one catalog locus and were excluded.
+  317 loci contained SNPs unaccounted for in the catalog and were excluded.
+  44403 total haplotypes examined from matching loci, 43778 verified.
+Outputing to file sstacks_batch230/PO031715_13.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO010715_08.1' [50 of 57]
+  Parsing stacks_M2/PO010715_08.1.tags.tsv.gz
+  Parsing stacks_M2/PO010715_08.1.snps.tsv.gz
+  Parsing stacks_M2/PO010715_08.1.alleles.tsv.gz
+Searching for sequence matches...
+42269 stacks compared against the catalog containing 133000 loci.
+  39963 matching loci, 381 contained no verified haplotypes.
+  109 loci matched more than one catalog locus and were excluded.
+  272 loci contained SNPs unaccounted for in the catalog and were excluded.
+  45238 total haplotypes examined from matching loci, 44606 verified.
+Outputing to file sstacks_batch230/PO010715_08.1.matches.tsv.gz
+Processing sample 'stacks_M2/PO020515_14.1' [51 of 57]
+  Parsing stacks_M2/PO020515_14.1.tags.tsv.gz
+  Parsing stacks_M2/PO020515_14.1.snps.tsv.gz
+  Parsing stacks_M2/PO020515_14.1.alleles.tsv.gz
+Searching for sequence matches...
+40909 stacks compared against the catalog containing 133000 loci.
+  40888 matching loci, 101 contained no verified haplotypes.
+  101 loci matched more than one catalog locus and were excluded.
+  0 loci contained SNPs unaccounted for in the catalog and were excluded.
+  47187 total haplotypes examined from matching loci, 46942 verified.
+Outputing to file sstacks_batch230/PO020515_14.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE012315_08.1' [52 of 57]
+  Parsing stacks_M2/GE012315_08.1.tags.tsv.gz
+  Parsing stacks_M2/GE012315_08.1.snps.tsv.gz
+  Parsing stacks_M2/GE012315_08.1.alleles.tsv.gz
+Searching for sequence matches...
+40104 stacks compared against the catalog containing 133000 loci.
+  39544 matching loci, 346 contained no verified haplotypes.
+  110 loci matched more than one catalog locus and were excluded.
+  236 loci contained SNPs unaccounted for in the catalog and were excluded.
+  44717 total haplotypes examined from matching loci, 44166 verified.
+Outputing to file sstacks_batch230/GE012315_08.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE012315_09.1' [53 of 57]
+  Parsing stacks_M2/GE012315_09.1.tags.tsv.gz
+  Parsing stacks_M2/GE012315_09.1.snps.tsv.gz
+  Parsing stacks_M2/GE012315_09.1.alleles.tsv.gz
+Searching for sequence matches...
+43029 stacks compared against the catalog containing 133000 loci.
+  41316 matching loci, 418 contained no verified haplotypes.
+  118 loci matched more than one catalog locus and were excluded.
+  300 loci contained SNPs unaccounted for in the catalog and were excluded.
+  47069 total haplotypes examined from matching loci, 46427 verified.
+Outputing to file sstacks_batch230/GE012315_09.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE012315_10.1' [54 of 57]
+  Parsing stacks_M2/GE012315_10.1.tags.tsv.gz
+  Parsing stacks_M2/GE012315_10.1.snps.tsv.gz
+  Parsing stacks_M2/GE012315_10.1.alleles.tsv.gz
+Searching for sequence matches...
+40114 stacks compared against the catalog containing 133000 loci.
+  39642 matching loci, 376 contained no verified haplotypes.
+  98 loci matched more than one catalog locus and were excluded.
+  278 loci contained SNPs unaccounted for in the catalog and were excluded.
+  44913 total haplotypes examined from matching loci, 44340 verified.
+Outputing to file sstacks_batch230/GE012315_10.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE012315_11.1' [55 of 57]
+  Parsing stacks_M2/GE012315_11.1.tags.tsv.gz
+  Parsing stacks_M2/GE012315_11.1.snps.tsv.gz
+  Parsing stacks_M2/GE012315_11.1.alleles.tsv.gz
+Searching for sequence matches...
+43455 stacks compared against the catalog containing 133000 loci.
+  43427 matching loci, 89 contained no verified haplotypes.
+  85 loci matched more than one catalog locus and were excluded.
+  4 loci contained SNPs unaccounted for in the catalog and were excluded.
+  49929 total haplotypes examined from matching loci, 49706 verified.
+Outputing to file sstacks_batch230/GE012315_11.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE012315_17.1' [56 of 57]
+  Parsing stacks_M2/GE012315_17.1.tags.tsv.gz
+  Parsing stacks_M2/GE012315_17.1.snps.tsv.gz
+  Parsing stacks_M2/GE012315_17.1.alleles.tsv.gz
+Searching for sequence matches...
+40218 stacks compared against the catalog containing 133000 loci.
+  39618 matching loci, 364 contained no verified haplotypes.
+  103 loci matched more than one catalog locus and were excluded.
+  261 loci contained SNPs unaccounted for in the catalog and were excluded.
+  44842 total haplotypes examined from matching loci, 44241 verified.
+Outputing to file sstacks_batch230/GE012315_17.1.matches.tsv.gz
+Processing sample 'stacks_M2/GE012315_20.1' [57 of 57]
+  Parsing stacks_M2/GE012315_20.1.tags.tsv.gz
+  Parsing stacks_M2/GE012315_20.1.snps.tsv.gz
+  Parsing stacks_M2/GE012315_20.1.alleles.tsv.gz
+Searching for sequence matches...
+40774 stacks compared against the catalog containing 133000 loci.
+  40042 matching loci, 366 contained no verified haplotypes.
+  110 loci matched more than one catalog locus and were excluded.
+  256 loci contained SNPs unaccounted for in the catalog and were excluded.
+  45395 total haplotypes examined from matching loci, 44813 verified.
+Outputing to file sstacks_batch230/GE012315_20.1.matches.tsv.gz

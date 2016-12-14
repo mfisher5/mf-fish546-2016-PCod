@@ -1,0 +1,361 @@
+## cstacks output from batch 1030 : -m 10, 30 individuals in catalog ##
+
+cstacks paramters selected:
+  Loci matched based on sequence identity.
+  Number of mismatches allowed between stacks: 3
+  Gapped alignments: disabled
+Constructing catalog from 30 samples.
+Initializing new catalog...
+  Parsing stacks_m10/GE011215_07.1.tags.tsv.gz
+  Parsing stacks_m10/GE011215_07.1.snps.tsv.gz
+  Parsing stacks_m10/GE011215_07.1.alleles.tsv.gz
+  36383 loci were newly added to the catalog.
+Processing sample stacks_m10/GE011215_07.1 [2 of 30]
+  Parsing stacks_m10/GE012315_06.1.tags.tsv.gz
+  Parsing stacks_m10/GE012315_06.1.snps.tsv.gz
+  Parsing stacks_m10/GE012315_06.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  36383 loci in the catalog, 3739302 kmers in the catalog hash.
+Merging matches into catalog...
+  33014 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  5176 loci were newly added to the catalog.
+  148 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/GE012315_06.1 [3 of 30]
+  Parsing stacks_m10/GE012315_11.1.tags.tsv.gz
+  Parsing stacks_m10/GE012315_11.1.snps.tsv.gz
+  Parsing stacks_m10/GE012315_11.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  41559 loci in the catalog, 4229468 kmers in the catalog hash.
+Merging matches into catalog...
+  35952 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  2407 loci were newly added to the catalog.
+  155 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/GE012315_11.1 [4 of 30]
+  Parsing stacks_m10/GE012315_03.1.tags.tsv.gz
+  Parsing stacks_m10/GE012315_03.1.snps.tsv.gz
+  Parsing stacks_m10/GE012315_03.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  43966 loci in the catalog, 4445804 kmers in the catalog hash.
+Merging matches into catalog...
+  34905 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  1368 loci were newly added to the catalog.
+  152 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/GE012315_03.1 [5 of 30]
+  Parsing stacks_m10/GE011215_09.1.tags.tsv.gz
+  Parsing stacks_m10/GE011215_09.1.snps.tsv.gz
+  Parsing stacks_m10/GE011215_09.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  45334 loci in the catalog, 4563605 kmers in the catalog hash.
+Merging matches into catalog...
+  36286 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  1101 loci were newly added to the catalog.
+  148 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/GE011215_09.1 [6 of 30]
+  Parsing stacks_m10/GE011215_16.1.tags.tsv.gz
+  Parsing stacks_m10/GE011215_16.1.snps.tsv.gz
+  Parsing stacks_m10/GE011215_16.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  46435 loci in the catalog, 4653295 kmers in the catalog hash.
+Merging matches into catalog...
+  35704 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  961 loci were newly added to the catalog.
+  133 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/GE011215_16.1 [7 of 30]
+  Parsing stacks_m10/GE011215_01.1.tags.tsv.gz
+  Parsing stacks_m10/GE011215_01.1.snps.tsv.gz
+  Parsing stacks_m10/GE011215_01.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  47396 loci in the catalog, 4736792 kmers in the catalog hash.
+Merging matches into catalog...
+  37128 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  763 loci were newly added to the catalog.
+  138 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/GE011215_01.1 [8 of 30]
+  Parsing stacks_m10/GE011215_30.1.tags.tsv.gz
+  Parsing stacks_m10/GE011215_30.1.snps.tsv.gz
+  Parsing stacks_m10/GE011215_30.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  48159 loci in the catalog, 4802649 kmers in the catalog hash.
+Merging matches into catalog...
+  37725 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  856 loci were newly added to the catalog.
+  179 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/GE011215_30.1 [9 of 30]
+  Parsing stacks_m10/GE011215_15.1.tags.tsv.gz
+  Parsing stacks_m10/GE011215_15.1.snps.tsv.gz
+  Parsing stacks_m10/GE011215_15.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  49015 loci in the catalog, 4872877 kmers in the catalog hash.
+Merging matches into catalog...
+  37434 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  5115 loci were newly added to the catalog.
+  154 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/GE011215_15.1 [10 of 30]
+  Parsing stacks_m10/GE011215_14.1.tags.tsv.gz
+  Parsing stacks_m10/GE011215_14.1.snps.tsv.gz
+  Parsing stacks_m10/GE011215_14.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  54130 loci in the catalog, 5408863 kmers in the catalog hash.
+Merging matches into catalog...
+  37859 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  779 loci were newly added to the catalog.
+  160 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/GE011215_14.1 [11 of 30]
+  Parsing stacks_m10/NA021015_10.1.tags.tsv.gz
+  Parsing stacks_m10/NA021015_10.1.snps.tsv.gz
+  Parsing stacks_m10/NA021015_10.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  54909 loci in the catalog, 5467467 kmers in the catalog hash.
+Merging matches into catalog...
+  36949 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  915 loci were newly added to the catalog.
+  165 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/NA021015_10.1 [12 of 30]
+  Parsing stacks_m10/NA021015_17.1.tags.tsv.gz
+  Parsing stacks_m10/NA021015_17.1.snps.tsv.gz
+  Parsing stacks_m10/NA021015_17.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  55824 loci in the catalog, 5558793 kmers in the catalog hash.
+Merging matches into catalog...
+  37138 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  924 loci were newly added to the catalog.
+  181 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/NA021015_17.1 [13 of 30]
+  Parsing stacks_m10/NA021015_21.1.tags.tsv.gz
+  Parsing stacks_m10/NA021015_21.1.snps.tsv.gz
+  Parsing stacks_m10/NA021015_21.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  56748 loci in the catalog, 5652697 kmers in the catalog hash.
+Merging matches into catalog...
+  37115 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  382 loci were newly added to the catalog.
+  148 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/NA021015_21.1 [14 of 30]
+  Parsing stacks_m10/NA021015_02.1.tags.tsv.gz
+  Parsing stacks_m10/NA021015_02.1.snps.tsv.gz
+  Parsing stacks_m10/NA021015_02.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  57130 loci in the catalog, 5685972 kmers in the catalog hash.
+Merging matches into catalog...
+  36224 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  294 loci were newly added to the catalog.
+  141 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/NA021015_02.1 [15 of 30]
+  Parsing stacks_m10/NA021015_09.1.tags.tsv.gz
+  Parsing stacks_m10/NA021015_09.1.snps.tsv.gz
+  Parsing stacks_m10/NA021015_09.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  57424 loci in the catalog, 5710882 kmers in the catalog hash.
+Merging matches into catalog...
+  37859 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  345 loci were newly added to the catalog.
+  158 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/NA021015_09.1 [16 of 30]
+  Parsing stacks_m10/NA021015_22.1.tags.tsv.gz
+  Parsing stacks_m10/NA021015_22.1.snps.tsv.gz
+  Parsing stacks_m10/NA021015_22.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  57769 loci in the catalog, 5740379 kmers in the catalog hash.
+Merging matches into catalog...
+  37787 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  1462 loci were newly added to the catalog.
+  165 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/NA021015_22.1 [17 of 30]
+  Parsing stacks_m10/NA021015_14.1.tags.tsv.gz
+  Parsing stacks_m10/NA021015_14.1.snps.tsv.gz
+  Parsing stacks_m10/NA021015_14.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  59231 loci in the catalog, 5890421 kmers in the catalog hash.
+Merging matches into catalog...
+  37740 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  323 loci were newly added to the catalog.
+  163 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/NA021015_14.1 [18 of 30]
+  Parsing stacks_m10/NA021015_06.1.tags.tsv.gz
+  Parsing stacks_m10/NA021015_06.1.snps.tsv.gz
+  Parsing stacks_m10/NA021015_06.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  59554 loci in the catalog, 5919898 kmers in the catalog hash.
+Merging matches into catalog...
+  37876 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  677 loci were newly added to the catalog.
+  158 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/NA021015_06.1 [19 of 30]
+  Parsing stacks_m10/NA021015_13.1.tags.tsv.gz
+  Parsing stacks_m10/NA021015_13.1.snps.tsv.gz
+  Parsing stacks_m10/NA021015_13.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  60231 loci in the catalog, 5975912 kmers in the catalog hash.
+Merging matches into catalog...
+  36777 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  566 loci were newly added to the catalog.
+  171 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/NA021015_13.1 [20 of 30]
+  Parsing stacks_m10/NA021015_16.1.tags.tsv.gz
+  Parsing stacks_m10/NA021015_16.1.snps.tsv.gz
+  Parsing stacks_m10/NA021015_16.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  60797 loci in the catalog, 6022172 kmers in the catalog hash.
+Merging matches into catalog...
+  37861 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  289 loci were newly added to the catalog.
+  143 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/NA021015_16.1 [21 of 30]
+  Parsing stacks_m10/PO020515_03.1.tags.tsv.gz
+  Parsing stacks_m10/PO020515_03.1.snps.tsv.gz
+  Parsing stacks_m10/PO020515_03.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  61086 loci in the catalog, 6044909 kmers in the catalog hash.
+Merging matches into catalog...
+  37196 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  433 loci were newly added to the catalog.
+  169 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/PO020515_03.1 [22 of 30]
+  Parsing stacks_m10/PO010715_10.1.tags.tsv.gz
+  Parsing stacks_m10/PO010715_10.1.snps.tsv.gz
+  Parsing stacks_m10/PO010715_10.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  61519 loci in the catalog, 6088203 kmers in the catalog hash.
+Merging matches into catalog...
+  37056 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  408 loci were newly added to the catalog.
+  134 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/PO010715_10.1 [23 of 30]
+  Parsing stacks_m10/PO020515_14.1.tags.tsv.gz
+  Parsing stacks_m10/PO020515_14.1.snps.tsv.gz
+  Parsing stacks_m10/PO020515_14.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  61927 loci in the catalog, 6125806 kmers in the catalog hash.
+Merging matches into catalog...
+  37573 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  407 loci were newly added to the catalog.
+  153 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/PO020515_14.1 [24 of 30]
+  Parsing stacks_m10/PO010715_11.1.tags.tsv.gz
+  Parsing stacks_m10/PO010715_11.1.snps.tsv.gz
+  Parsing stacks_m10/PO010715_11.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  62334 loci in the catalog, 6163180 kmers in the catalog hash.
+Merging matches into catalog...
+  37695 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  743 loci were newly added to the catalog.
+  155 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/PO010715_11.1 [25 of 30]
+  Parsing stacks_m10/PO020515_05.1.tags.tsv.gz
+  Parsing stacks_m10/PO020515_05.1.snps.tsv.gz
+  Parsing stacks_m10/PO020515_05.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  63077 loci in the catalog, 6238494 kmers in the catalog hash.
+Merging matches into catalog...
+  36062 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  234 loci were newly added to the catalog.
+  146 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/PO020515_05.1 [26 of 30]
+  Parsing stacks_m10/PO020515_17.1.tags.tsv.gz
+  Parsing stacks_m10/PO020515_17.1.snps.tsv.gz
+  Parsing stacks_m10/PO020515_17.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  63311 loci in the catalog, 6263155 kmers in the catalog hash.
+Merging matches into catalog...
+  37516 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  344 loci were newly added to the catalog.
+  158 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/PO020515_17.1 [27 of 30]
+  Parsing stacks_m10/PO020515_15.1.tags.tsv.gz
+  Parsing stacks_m10/PO020515_15.1.snps.tsv.gz
+  Parsing stacks_m10/PO020515_15.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  63655 loci in the catalog, 6292984 kmers in the catalog hash.
+Merging matches into catalog...
+  37861 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  161 loci were newly added to the catalog.
+  150 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/PO020515_15.1 [28 of 30]
+  Parsing stacks_m10/PO010715_17.1.tags.tsv.gz
+  Parsing stacks_m10/PO010715_17.1.snps.tsv.gz
+  Parsing stacks_m10/PO010715_17.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  63816 loci in the catalog, 6308167 kmers in the catalog hash.
+Merging matches into catalog...
+  37741 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  158 loci were newly added to the catalog.
+  168 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/PO010715_17.1 [29 of 30]
+  Parsing stacks_m10/PO020515_10.1.tags.tsv.gz
+  Parsing stacks_m10/PO020515_10.1.snps.tsv.gz
+  Parsing stacks_m10/PO020515_10.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  63974 loci in the catalog, 6321717 kmers in the catalog hash.
+Merging matches into catalog...
+  36752 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  479 loci were newly added to the catalog.
+  134 loci matched more than one catalog locus and were excluded.
+Processing sample stacks_m10/PO020515_10.1 [30 of 30]
+  Parsing stacks_m10/PO020515_08.1.tags.tsv.gz
+  Parsing stacks_m10/PO020515_08.1.snps.tsv.gz
+  Parsing stacks_m10/PO020515_08.1.alleles.tsv.gz
+Searching for sequence matches...
+  Distance allowed between stacks: 3; searching with a k-mer length of 35 (108 k-mers per read); 3 k-mer hits required.
+  64453 loci in the catalog, 6372081 kmers in the catalog hash.
+Merging matches into catalog...
+  38551 loci were matched to a catalog locus.
+  0 loci were matched to a catalog locus using gapped alignments.
+  1572 loci were newly added to the catalog.
+  152 loci matched more than one catalog locus and were excluded.
+Writing catalog to 'stacks_m10/... done.
