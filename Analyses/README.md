@@ -6,6 +6,15 @@ This includes *(1)* R scripts used to run the analyses, *(2)* excel spreadsheets
 
 <br>
 <br>
+*Subdirectories* 
+
+[**dapc/**](https://github.com/mfisher5/mf-fish546-PCod/tree/master/Analyses/DAPC) *scripts and graphs from R used to run DAPC analyses.*
+    
+[**fastq_SeqComparisons/**](https://github.com/mfisher5/mf-fish546-PCod/tree/master/Analyses/FASTQ%20_SeqComparisons) *text files and R script used to compare the number of sequences between 500ng, 300ng, and degraded DNA samples output from `process_radtags`.*
+	
+[**genepop/**](https://github.com/mfisher5/mf-fish546-PCod/tree/master/Analyses/Genepop) *output from genepop analyses; contains only examples, as genepop output files too large to store on github.*
+
+<br>
 *R scripts* 
 
 `pop_structure_script.R` : heterozygosity calculations and HWE testing
