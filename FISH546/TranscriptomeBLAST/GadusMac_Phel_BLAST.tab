@@ -1,0 +1,3123 @@
+BLASTN 2.2.31+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: ./data/Phel_DEGsequences.fa
+           3,729 sequences; 7,385,632 total letters
+
+
+
+Query= tr|A0A0D5CCU4|A0A0D5CCU4_9TELE Cytochrome c oxidase subunit 1
+(Fragment) OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=79
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.03    0.776     1.81 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 431352068
+
+
+Query= tr|A0A0D5CBY2|A0A0D5CBY2_9TELE Cytochrome c oxidase subunit 1
+(Fragment) OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=78
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.02    0.772     1.79 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 424041016
+
+
+Query= tr|A0A0D5CBY6|A0A0D5CBY6_9TELE Cytochrome c oxidase subunit 1
+(Fragment) OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=79
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.02    0.772     1.79 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 431352068
+
+
+Query= tr|A0A0D5CCX4|A0A0D5CCX4_9TELE Cytochrome c oxidase subunit 1
+(Fragment) OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=83
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.00    0.771     1.78 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 460596276
+
+
+Query= tr|A0A0D5CCR2|A0A0D5CCR2_9TELE Cytochrome c oxidase subunit 1
+(Fragment) OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=80
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.02    0.772     1.79 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 438663120
+
+
+Query= tr|Q070Z3|Q070Z3_9TELE Cytochrome c oxidase subunit 1 OS=Gadus
+macrocephalus GN=COX1 PE=3 SV=1
+
+Length=325
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.20    0.804     1.99 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2212988982
+
+
+Query= tr|G8DMX5|G8DMX5_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=127
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.06    0.781     1.85 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 774576238
+
+
+Query= tr|K9LAP1|K9LAP1_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=132
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.05    0.779     1.84 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 811112853
+
+
+Query= tr|G8DMY0|G8DMY0_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=129
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.08    0.783     1.86 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 789190884
+
+
+Query= tr|G8DMY2|G8DMY2_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=127
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.06    0.781     1.85 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 774576238
+
+
+Query= tr|C4MPH9|C4MPH9_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=128
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.07    0.782     1.85 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 781883561
+
+
+Query= tr|W6CJB3|W6CJB3_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=124
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.07    0.783     1.86 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 752654269
+
+
+Query= tr|C7A3H6|C7A3H6_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=119
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.07    0.781     1.85 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 723794148
+
+
+Query= tr|C7A3G9|C7A3G9_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=128
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.07    0.782     1.85 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 781883561
+
+
+Query= tr|Q2Q916|Q2Q916_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=coxI PE=3 SV=1
+
+Length=86
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.26    0.812     2.05 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 482529432
+
+
+Query= tr|K9LAI4|K9LAI4_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=131
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.06    0.781     1.85 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 803805530
+
+
+Query= tr|K9LA02|K9LA02_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=131
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.06    0.781     1.85 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 803805530
+
+
+Query= tr|A0A0D5CCX9|A0A0D5CCX9_9TELE Cytochrome c oxidase subunit 1
+(Fragment) OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=120
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.08    0.783     1.86 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 731105200
+
+
+Query= tr|G8DMX4|G8DMX4_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=126
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.06    0.779     1.84 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 767268915
+
+
+Query= tr|C7A3H4|C7A3H4_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=121
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.11    0.788     1.89 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 730732300
+
+
+Query= tr|U5Y4V6|U5Y4V6_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=127
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.08    0.784     1.86 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 774576238
+
+
+Query= tr|C7A3H5|C7A3H5_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus GN=COI PE=3 SV=1
+
+Length=121
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.11    0.788     1.89 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 730732300
+
+
+Query= tr|A0A0R5EMY9|A0A0R5EMY9_9TELE Cytochrome c oxidase subunit 1
+(Fragment) OS=Gadus macrocephalus PE=3 SV=1
+
+Length=112
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.08    0.783     1.86 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 672616784
+
+
+Query= tr|A0A0R5EN06|A0A0R5EN06_9TELE Cytochrome c oxidase subunit 1
+(Fragment) OS=Gadus macrocephalus PE=3 SV=1
+
+Length=118
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.10    0.787     1.88 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 716483096
+
+
+Query= tr|O79769|O79769_9TELE Cytochrome c oxidase subunit 1 (Fragment)
+OS=Gadus macrocephalus PE=3 SV=1
+
+Length=109
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.29    0.816     2.08 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 650683628
+
+
+Query= tr|A0A0R5EN23|A0A0R5EN23_9TELE Cytochrome c oxidase subunit 1
+(Fragment) OS=Gadus macrocephalus PE=3 SV=1
+
+Length=111
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.07    0.781     1.85 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 665305732
+
+
+Query= tr|A0A0Y0DH25|A0A0Y0DH25_9BILA Cytochrome oxidase subunit 2
+(Fragment) OS=Hysterothylacium aduncum GN=cox2 PE=4 SV=1
+
+Length=118
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.63    0.864     2.45 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 716483096
+
+
+Query= tr|E5FDB1|E5FDB1_9BILA Cytochrome c oxidase subunit 2 (Fragment)
+OS=Anisakis pegreffii GN=cox2 PE=4 SV=1
+
+Length=120
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.64    0.865     2.46 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 731105200
+
+
+Query= tr|A0A0K0MI54|A0A0K0MI54_9VIRU Capsid protein OS=Pacific cod
+betanodavirus PE=4 SV=1
+
+Length=238
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.18    0.800     1.96 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1585689091
+
+
+Query= tr|Q9MJB7|Q9MJB7_9TELE Cytochrome b OS=Gadus macrocephalus GN=cytb
+PE=3 SV=1
+
+Length=236
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.32    0.821     2.11 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1571074445
+
+
+Query= tr|Q56IN1|Q56IN1_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus PE=4 SV=1
+
+Length=95
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.42    0.838     2.23 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 548328900
+
+
+Query= tr|A0A0C4K3C7|A0A0C4K3C7_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytb PE=4 SV=1
+
+Length=82
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.41    0.834     2.21 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 453285224
+
+
+Query= tr|C4MMA0|C4MMA0_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=ND2 PE=3 SV=1
+
+Length=197
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.04    0.780     1.83 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1286088848
+
+
+Query= tr|C4MM84|C4MM84_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytB PE=4 SV=1
+
+Length=111
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.40    0.834     2.20 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 665305732
+
+
+Query= tr|D5G045|D5G045_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.03    0.778     1.82 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1278781525
+
+
+Query= tr|Q1HAH6|Q1HAH6_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=Cytb PE=4 SV=1
+
+Length=84
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.39    0.834     2.20 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 467907328
+
+
+Query= tr|A0A0A6YYZ9|A0A0A6YYZ9_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytb PE=4 SV=1
+
+Length=86
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.38    0.832     2.18 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 482529432
+
+
+Query= tr|D5G080|D5G080_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=197
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.03    0.778     1.82 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1286088848
+
+
+Query= tr|O79757|O79757_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytb PE=4 SV=1
+
+Length=88
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.41    0.835     2.21 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 497151536
+
+
+Query= tr|C4MM93|C4MM93_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=ND2 PE=3 SV=1
+
+Length=196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.03    0.779     1.82 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1278781525
+
+
+Query= tr|A0A0E3TVJ0|A0A0E3TVJ0_9TELE Myoglobin (Fragment) OS=Gadus
+macrocephalus PE=3 SV=1
+
+Length=100
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.16    0.795     1.94 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 584884160
+
+
+Query= tr|C4MM92|C4MM92_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=ND2 PE=3 SV=1
+
+Length=196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.03    0.778     1.82 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1278781525
+
+
+Query= tr|A0A0E3XVW3|A0A0E3XVW3_9TELE Hemoglobin alpha 2 OS=Gadus
+macrocephalus GN=HbA2 PE=3 SV=1
+
+Length=98
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.59    0.859     2.41 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 570262056
+
+
+Query= tr|Q56IM9|Q56IM9_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus PE=4 SV=1
+
+Length=95
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.39    0.833     2.19 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 548328900
+
+
+Query= tr|Q070Z0|Q070Z0_9TELE ATP synthase subunit a OS=Gadus macrocephalus
+GN=ATP6 PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.16    0.799     1.95 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|A0A0E3TVC9|A0A0E3TVC9_9TELE Creatine kinase muscle type A
+(Fragment) OS=Gadus macrocephalus GN=Ckma PE=3 SV=1
+
+Length=134
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.60    0.858     2.41 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 825727499
+
+
+Query= tr|E0DBK2|E0DBK2_9TELE Trypsin-2 (Fragment) OS=Gadus macrocephalus
+GN=tryp PE=2 SV=1
+
+Length=171
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.34    0.824     2.13 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1096098450
+
+
+Query= tr|E0DBK1|E0DBK1_9TELE Trypsin-1 (Fragment) OS=Gadus macrocephalus
+GN=tryp PE=2 SV=1
+
+Length=171
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.35    0.826     2.15 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1096098450
+
+
+Query= tr|H9BDN4|H9BDN4_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=ND2 PE=3 SV=1
+
+Length=143
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.04    0.779     1.83 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 891493406
+
+
+Query= tr|C4MLI2|C4MLI2_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.29    0.818     2.08 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|C4MM57|C4MM57_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytB PE=4 SV=1
+
+Length=111
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.40    0.834     2.20 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 665305732
+
+
+Query= tr|Q070Y8|Q070Y8_9TELE NADH-ubiquinone oxidoreductase chain 3
+OS=Gadus macrocephalus GN=ND3 PE=3 SV=1
+
+Length=52
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.26    0.817     2.06 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 241387773
+
+
+Query= tr|A0A0E3XVG5|A0A0E3XVG5_9TELE Creatine kinase muscle type A
+(Fragment) OS=Gadus macrocephalus GN=Ckma PE=3 SV=1
+
+Length=64
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.43    0.837     2.23 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 321686288
+
+
+Query= tr|Q070Z1|Q070Z1_9TELE ATP synthase protein 8 OS=Gadus macrocephalus
+GN=ATP8 PE=3 SV=1
+
+Length=30
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.24    0.815     2.04 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 87822120
+
+
+Query= tr|I1YN41|I1YN41_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytb PE=4 SV=1
+
+Length=107
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.26    0.811     2.05 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 636061524
+
+
+Query= tr|A0A0D5CCR8|A0A0D5CCR8_9TELE Cytochrome oxidase subunit 1
+(Fragment) OS=Gadus macrocephalus GN=COI PE=4 SV=1
+
+Length=45
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.03    0.776     1.81 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 190184306
+
+
+Query= tr|A0A0E3XTV8|A0A0E3XTV8_9TELE Creatine kinase muscle type A
+(Fragment) OS=Gadus macrocephalus GN=Ckma PE=4 SV=1
+
+Length=32
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.84    0.885     2.67 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 102459140
+
+
+Query= tr|C4MLK3|C4MLK3_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.28    0.817     2.07 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|A0A0E3TV77|A0A0E3TV77_9TELE Hemoglobin alpha 2 OS=Gadus
+macrocephalus GN=HbA2 PE=3 SV=1
+
+Length=99
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.60    0.860     2.42 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 577573108
+
+
+Query= tr|B7TJR8|B7TJR8_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus PE=4 SV=1
+
+Length=90
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.40    0.834     2.20 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 511773640
+
+
+Query= tr|A0A120HV40|A0A120HV40_9BILA Cytochrome oxidase subunit 2
+(Fragment) OS=Hysterothylacium aduncum GN=cox2 PE=4 SV=1
+
+Length=117
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.62    0.863     2.44 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 709172044
+
+
+Query= tr|Q6WEU5|Q6WEU5_9TELE S2 ribosomal protein (Fragment) OS=Gadus
+macrocephalus GN=S2 PE=3 SV=1
+
+Length=134
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.22    0.807     2.01 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 825727499
+
+
+Query= tr|D5FZY0|D5FZY0_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytb PE=4 SV=1
+
+Length=110
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.39    0.833     2.19 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 657994680
+
+
+Query= tr|C4MLK7|C4MLK7_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.29    0.818     2.08 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|L8B3E0|L8B3E0_9TELE Pepsinogen (Fragment) OS=Gadus macrocephalus
+GN=pngA1 PE=2 SV=1
+
+Length=225
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.29    0.818     2.09 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1490693892
+
+
+Query= tr|A0A0E3XVW0|A0A0E3XVW0_9TELE Hemoglobin alpha 2 OS=Gadus
+macrocephalus GN=HbA2 PE=3 SV=1
+
+Length=98
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.59    0.859     2.41 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 570262056
+
+
+Query= tr|A0A0D3MJS6|A0A0D3MJS6_9TELE Cathelicidin 1 OS=Gadus macrocephalus
+PE=4 SV=1
+
+Length=128
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.17    0.803     1.97 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 781883561
+
+
+Query= tr|C4MLL6|C4MLL6_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=116
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.30    0.820     2.09 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 701860992
+
+
+Query= tr|C4MMA8|C4MMA8_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=ND2 PE=3 SV=1
+
+Length=197
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.04    0.780     1.83 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1286088848
+
+
+Query= tr|C4MLK5|C4MLK5_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.31    0.822     2.11 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|D5G061|D5G061_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=197
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.04    0.780     1.83 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1286088848
+
+
+Query= tr|A0A0G3VMZ6|A0A0G3VMZ6_9TELE IgM heavy chain OS=Gadus
+macrocephalus GN=IgM PE=2 SV=1
+
+Length=403
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.39    0.832     2.19 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2782669314
+
+
+Query= tr|Q071A0|Q071A0_9TELE NADH-ubiquinone oxidoreductase chain 4L
+OS=Gadus macrocephalus GN=ND4L PE=3 SV=1
+
+Length=63
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.92    0.755     1.70 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 314375236
+
+
+Query= tr|A0A0G3VLY7|A0A0G3VLY7_9TELE Recombination activating protein
+OS=Gadus macrocephalus GN=RAG1 PE=2 SV=1
+
+Length=414
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.44    0.840     2.25 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2863008848
+
+
+Query= tr|D5FZZ7|D5FZZ7_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytb PE=4 SV=1
+
+Length=111
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.40    0.834     2.20 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 665305732
+
+
+Query= tr|A0A0N7JQL0|A0A0N7JQL0_9TELE Ataxin 7-like protein 2 (Fragment)
+OS=Gadus macrocephalus GN=Atxn7l2 PE=4 SV=1
+
+Length=152
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.37    0.831     2.17 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 957259313
+
+
+Query= tr|D5G056|D5G056_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=195
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.03    0.778     1.82 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1271474202
+
+
+Query= tr|Q071A2|Q071A2_9TELE Cytochrome c oxidase subunit 3 OS=Gadus
+macrocephalus GN=COX3 PE=3 SV=1
+
+Length=163
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.18    0.799     1.96 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1037639866
+
+
+Query= tr|C4MM83|C4MM83_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytB PE=4 SV=1
+
+Length=111
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.43    0.838     2.23 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 665305732
+
+
+Query= tr|D5G040|D5G040_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.03    0.779     1.82 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1278781525
+
+
+Query= tr|S6B566|S6B566_9TELE Chymotrypsin OS=Gadus macrocephalus
+GN=chytryp PE=2 SV=1
+
+Length=192
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.13    0.792     1.92 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1249552233
+
+
+Query= tr|D5G031|D5G031_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.03    0.779     1.82 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1278781525
+
+
+Query= tr|Q071A7|Q071A7_9TELE NADH-ubiquinone oxidoreductase chain 2
+OS=Gadus macrocephalus GN=ND2 PE=3 SV=1
+
+Length=197
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.02    0.776     1.81 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1286088848
+
+
+Query= tr|C4MLJ9|C4MLJ9_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=116
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.30    0.820     2.09 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 701860992
+
+
+Query= tr|Q070Z7|Q070Z7_9TELE NADH-ubiquinone oxidoreductase chain 6
+OS=Gadus macrocephalus GN=ND6 PE=3 SV=1
+
+Length=116
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.19    0.801     1.98 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 701860992
+
+
+Query= tr|C4MLJ2|C4MLJ2_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.26    0.815     2.06 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|D5G052|D5G052_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=197
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.04    0.780     1.83 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1286088848
+
+
+Query= tr|C4MLM9|C4MLM9_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.28    0.817     2.07 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|C4MLJ3|C4MLJ3_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=116
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.30    0.820     2.09 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 701860992
+
+
+Query= tr|D2YYH0|D2YYH0_9TELE Metalloendopeptidase OS=Gadus macrocephalus
+GN=CdLCE PE=2 SV=1
+
+Length=172
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.47    0.845     2.28 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1103405773
+
+
+Query= tr|Q070Z8|Q070Z8_9TELE NADH-ubiquinone oxidoreductase chain 5
+OS=Gadus macrocephalus GN=ND5 PE=3 SV=1
+
+Length=370
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.13    0.793     1.92 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2541650712
+
+
+Query= tr|C4MLN0|C4MLN0_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=114
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.28    0.817     2.07 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 687238888
+
+
+Query= tr|A0A160V5W6|A0A160V5W6_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytb PE=4 SV=1
+
+Length=160
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.27    0.813     2.06 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1015717897
+
+
+Query= tr|A0A160V5T8|A0A160V5T8_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytb PE=4 SV=1
+
+Length=167
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.25    0.810     2.04 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1066869158
+
+
+Query= tr|Q85M69|Q85M69_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytB PE=4 SV=1
+
+Length=66
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.34    0.824     2.13 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 336308392
+
+
+Query= tr|Q070Z9|Q070Z9_9TELE NADH-ubiquinone oxidoreductase chain 4
+OS=Gadus macrocephalus GN=ND4 PE=3 SV=1
+
+Length=266
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.16    0.801     1.95 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1782076936
+
+
+Query= tr|C4MLL0|C4MLL0_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=116
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.31    0.821     2.10 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 701860992
+
+
+Query= tr|D5G038|D5G038_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.04    0.781     1.83 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1278781525
+
+
+Query= tr|A0A0E3TV38|A0A0E3TV38_9TELE Creatine kinase muscle type A
+(Fragment) OS=Gadus macrocephalus GN=Ckma PE=4 SV=1
+
+Length=31
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.81    0.882     2.64 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 95140630
+
+
+Query= tr|D5G064|D5G064_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.03    0.779     1.82 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1278781525
+
+
+Query= tr|Q070Z5|Q070Z5_9TELE NADH-ubiquinone oxidoreductase chain 1
+OS=Gadus macrocephalus GN=ND1 PE=3 SV=1
+
+Length=190
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.23    0.811     2.03 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1234937587
+
+
+Query= tr|H9BDN8|H9BDN8_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=ND2 PE=3 SV=1
+
+Length=143
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.04    0.779     1.83 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 891493406
+
+
+Query= tr|D5FZX7|D5FZX7_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytb PE=4 SV=1
+
+Length=110
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.39    0.833     2.19 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 657994680
+
+
+Query= tr|H9BDN2|H9BDN2_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=ND2 PE=3 SV=1
+
+Length=143
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.02    0.776     1.81 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 891493406
+
+
+Query= tr|D5G006|D5G006_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytb PE=4 SV=1
+
+Length=111
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.40    0.834     2.20 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 665305732
+
+
+Query= tr|A0A0U2X5X7|A0A0U2X5X7_9TELE Cytochrome c oxidase subunit 1
+(Fragment) OS=Gadus macrocephalus PE=3 SV=1
+
+Length=72
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.14    0.794     1.93 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 380174704
+
+
+Query= tr|C4MLJ1|C4MLJ1_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.29    0.819     2.09 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|D3XFE4|D3XFE4_9TELE Apocytochrome-b (Fragment) OS=Gadus
+macrocephalus GN=cob PE=4 SV=1
+
+Length=172
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.26    0.813     2.05 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1103405773
+
+
+Query= tr|C4MLM1|C4MLM1_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.26    0.815     2.06 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|A0A193GPT3|A0A193GPT3_9TELE Type-4 antifreeze protein OS=Gadus
+macrocephalus GN=AFP4 PE=2 SV=1
+
+Length=65
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.26    0.813     2.05 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 328997340
+
+
+Query= tr|C4MM88|C4MM88_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytB PE=4 SV=1
+
+Length=111
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.37    0.830     2.17 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 665305732
+
+
+Query= tr|C4MLM5|C4MLM5_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.29    0.818     2.08 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|Q070Z2|Q070Z2_9TELE Cytochrome c oxidase subunit 2 OS=Gadus
+macrocephalus GN=COX2 PE=3 SV=1
+
+Length=134
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.58    0.856     2.39 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 825727499
+
+
+Query= tr|D5G0A2|D5G0A2_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.03    0.779     1.82 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1278781525
+
+
+Query= tr|Q071A3|Q071A3_9TELE ATP synthase subunit a OS=Gadus macrocephalus
+GN=ATP6 PE=4 SV=1
+
+Length=114
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.18    0.801     1.96 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 687238888
+
+
+Query= tr|Q070Y7|Q070Y7_9TELE NADH-ubiquinone oxidoreductase chain 4
+OS=Gadus macrocephalus GN=ND4 PE=3 SV=1
+
+Length=265
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.15    0.800     1.95 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1774773342
+
+
+Query= tr|Q071A8|Q071A8_9TELE NADH-ubiquinone oxidoreductase chain 1
+OS=Gadus macrocephalus GN=ND1 PE=3 SV=1
+
+Length=190
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.24    0.812     2.03 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1234937587
+
+
+Query= tr|D5G071|D5G071_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=197
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.03    0.779     1.82 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1286088848
+
+
+Query= tr|D2YYG9|D2YYG9_9TELE Metalloendopeptidase OS=Gadus macrocephalus
+GN=CdHCE PE=2 SV=1
+
+Length=207
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.51    0.850     2.32 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1359162078
+
+
+Query= tr|A0A0D3MJB0|A0A0D3MJB0_9TELE Cathelicidin 3 OS=Gadus macrocephalus
+PE=4 SV=1
+
+Length=137
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.34    0.830     2.15 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 847649468
+
+
+Query= tr|A0A160V9J0|A0A160V9J0_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=Cytb PE=4 SV=1
+
+Length=164
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.27    0.813     2.06 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1044947189
+
+
+Query= tr|A0A0D3MJU6|A0A0D3MJU6_9TELE Cathelicidin 1 OS=Gadus macrocephalus
+PE=4 SV=1
+
+Length=142
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.23    0.813     2.03 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 884186083
+
+
+Query= tr|Q070Y6|Q070Y6_9TELE NADH-ubiquinone oxidoreductase chain 5
+OS=Gadus macrocephalus GN=ND5 PE=3 SV=1
+
+Length=369
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.13    0.793     1.92 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2534347118
+
+
+Query= tr|C4MLI1|C4MLI1_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=116
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.30    0.820     2.09 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 701860992
+
+
+Query= tr|A0A0P0QL24|A0A0P0QL24_9TELE Pantophysin (Fragment) OS=Gadus
+macrocephalus GN=PanI PE=4 SV=1
+
+Length=73
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.19    0.803     1.98 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 387485756
+
+
+Query= tr|C4MLM8|C4MLM8_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.24    0.811     2.03 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|Q070Y9|Q070Y9_9TELE Cytochrome c oxidase subunit 3 OS=Gadus
+macrocephalus GN=COX3 PE=3 SV=1
+
+Length=162
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.19    0.800     1.97 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1030332543
+
+
+Query= tr|D5G018|D5G018_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.04    0.780     1.83 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1278781525
+
+
+Query= tr|Q070Z4|Q070Z4_9TELE NADH-ubiquinone oxidoreductase chain 2
+OS=Gadus macrocephalus GN=ND2 PE=3 SV=1
+
+Length=200
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.04    0.780     1.83 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1308010817
+
+
+Query= tr|C7EXB6|C7EXB6_9TELE Cytochrome c oxidase subunit I (Fragment)
+OS=Gadus macrocephalus GN=COI PE=4 SV=1
+
+Length=20
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.93    0.758     1.71 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 29303872
+
+
+Query= tr|Q6WES1|Q6WES1_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=141
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.26    0.814     2.05 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 876878760
+
+
+Query= tr|D5G067|D5G067_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=197
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.04    0.780     1.83 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1286088848
+
+
+Query= tr|D5G098|D5G098_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=197
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.04    0.780     1.83 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1286088848
+
+
+Query= tr|Q2Q8W7|Q2Q8W7_9TELE Cytochrome b OS=Gadus macrocephalus GN=cytb
+PE=3 SV=1
+
+Length=231
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.30    0.819     2.10 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1534537830
+
+
+Query= tr|D5G0B0|D5G0B0_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.03    0.779     1.82 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1278781525
+
+
+Query= tr|A0A0E3XVN2|A0A0E3XVN2_9TELE Creatine kinase muscle type A
+(Fragment) OS=Gadus macrocephalus GN=Ckma PE=3 SV=1
+
+Length=135
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.58    0.856     2.39 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 833034822
+
+
+Query= tr|C4MLL1|C4MLL1_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.29    0.818     2.08 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|C4MLL2|C4MLL2_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.31    0.822     2.11 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|F7J8C1|F7J8C1_9TELE Chymotrypsin OS=Gadus macrocephalus
+GN=chytryp PE=2 SV=1
+
+Length=192
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.21    0.806     2.00 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1249552233
+
+
+Query= tr|Q071A5|Q071A5_9TELE Cytochrome c oxidase subunit 2 OS=Gadus
+macrocephalus GN=COX2 PE=3 SV=1
+
+Length=135
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.59    0.857     2.40 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 833034822
+
+
+Query= tr|Q56IM8|Q56IM8_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus PE=4 SV=1
+
+Length=95
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.39    0.833     2.19 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 548328900
+
+
+Query= tr|L8AZV3|L8AZV3_9TELE Pepsinogen (Fragment) OS=Gadus macrocephalus
+GN=pgnA2 PE=2 SV=1
+
+Length=241
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.34    0.825     2.14 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1607611060
+
+
+Query= tr|I1YN44|I1YN44_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytb PE=4 SV=1
+
+Length=107
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.26    0.811     2.05 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 636061524
+
+
+Query= tr|A0A0U2XAB4|A0A0U2XAB4_9TELE Cytochrome c oxidase subunit 1
+(Fragment) OS=Gadus macrocephalus PE=3 SV=1
+
+Length=85
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.12    0.792     1.91 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 475218380
+
+
+Query= tr|C4MM76|C4MM76_9TELE Cytochrome b (Fragment) OS=Gadus
+macrocephalus GN=cytB PE=4 SV=1
+
+Length=111
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.40    0.834     2.20 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 665305732
+
+
+Query= tr|C4MLN3|C4MLN3_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.28    0.817     2.07 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|D5G096|D5G096_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=NADH 2 PE=3 SV=1
+
+Length=197
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.04    0.780     1.83 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1286088848
+
+
+Query= tr|C7EXB7|C7EXB7_9TELE Cytochrome c oxidase subunit I (Fragment)
+OS=Gadus macrocephalus GN=COI PE=4 SV=1
+
+Length=20
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.93    0.758     1.71 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 29303872
+
+
+Query= tr|C4MMA2|C4MMA2_9TELE NADH-ubiquinone oxidoreductase chain 2
+(Fragment) OS=Gadus macrocephalus GN=ND2 PE=3 SV=1
+
+Length=196
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.02    0.777     1.81 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1278781525
+
+
+Query= tr|C7A8E4|C7A8E4_9TELE Recombination activating protein 1 (Fragment)
+OS=Gadus macrocephalus GN=RAG1 PE=4 SV=1
+
+Length=180
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.41    0.835     2.21 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1161864357
+
+
+Query= tr|Q070Y5|Q070Y5_9TELE NADH-ubiquinone oxidoreductase chain 6
+OS=Gadus macrocephalus GN=ND6 PE=3 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.20    0.803     1.99 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|C4MLJ7|C4MLJ7_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=115
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.29    0.818     2.08 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 694549940
+
+
+Query= tr|C4MLI7|C4MLI7_9TELE Pantophysin (Fragment) OS=Gadus macrocephalus
+GN=Pan I PE=4 SV=1
+
+Length=114
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.28    0.817     2.07 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 687238888
+
+
+Query= tr|A0A0D3MJR9|A0A0D3MJR9_9TELE Cathelicidin 3 OS=Gadus macrocephalus
+PE=4 SV=1
+
+Length=128
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    2.31    0.825     2.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 781883561
+
+
+Query= tr|A9LPC6|A9LPC6_PLEPL Parvalbumin (Fragment) OS=Pleuronectes
+platessa PE=4 SV=1
+
+Length=5
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.84    0.736     1.61 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 22134522
+
+
+  Database: ./data/Phel_DEGsequences.fa
+    Posted date:  Oct 28, 2016  11:38 AM
+  Number of letters in database: 7,385,632
+  Number of sequences in database:  3,729
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5
