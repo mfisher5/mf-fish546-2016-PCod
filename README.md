@@ -25,7 +25,8 @@ A better understanding of the genetic population structure of Pacific cod around
 ###Class Objectives: 
 
   **(1) Become familiar with the `stacks` pipeline using Lane 1 sequence data **
-*Jupyter notebook [here](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lane1data_full%20stacks%20pipeline.ipynb)*
+
+*[Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lane1data_full%20stacks%20pipeline.ipynb)*
 <br>
 
 
@@ -33,30 +34,30 @@ A better understanding of the genetic population structure of Pacific cod around
   
        (a) Research previous papers / labmate work on parameters for c and ustacks, and come up with a list of parameter values to test. 
 
-*Evernote notebook [here](https://www.evernote.com/shard/s650/sh/122752f1-9ab7-4f9b-a9af-0c3331617436/0c84d3e0f73055a6)*
+*[Evernote](https://www.evernote.com/shard/s650/sh/122752f1-9ab7-4f9b-a9af-0c3331617436/0c84d3e0f73055a6)*
        
        (b) Determine quantitative measures that will be used for comparing different batches of c/ustacks parameters
        
        (c) Run through stacks with the Lane 1 data
-*Jupyter notebook p1 [here](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/testing%20stacks/Testing%20stacks%20Parameters%20I%20.ipynb)*, *Jupyter notebook p2 [here](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/testing%20stacks/Testing%20stacks%20Parameters%20II.ipynb)*
+*[Jupyter notebook p1](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/testing%20stacks/Testing%20stacks%20Parameters%20I%20.ipynb)*, *[Jupyter notebook p2](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/testing%20stacks/Testing%20stacks%20Parameters%20II.ipynb)*
        
        (d) Analyze output to decide which parameters to use going forward 
-*Evernote notebook [here](https://www.evernote.com/shard/s650/sh/138af148-ea28-416e-b79d-2550b2829d50/3dd0a2619d17e859)*
+*[Evernote](https://www.evernote.com/shard/s650/sh/138af148-ea28-416e-b79d-2550b2829d50/3dd0a2619d17e859)*
 
 <br>
   **(3) Get a preliminary analysis of population structure between 7 populations in the Lanes 1 and 2 data.** *[Here is a helpful workflow diagram of population structure analysis](https://github.com/mfisher5/mf-fish546-2016/blob/master/Diagrams/PopGen_Workflow.md).*
 
       (a) Run through the full `stacks` pipeline with Lanes 1 and 2 data
-*Jupyter notebook [here](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%20pipeline.ipynb)*
+*[Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%20pipeline.ipynb)*
 
       (b) Obtain measures of population structure (paired and overall Fst), and conduct Discriminant Analysis of Principle Components (DAPC)
-*Jupyter notebook [here](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%2C%20Analyses%20%2B%20Results.ipynb)*
+*[Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%2C%20Analyses%20%2B%20Results.ipynb)*
 <br>
 
 
   **(4) Compare sequencing output from 300ng and degraded DNA protocols to determine if these protocols will be used on the rest of the samples.**
   
-*Jupyter notebook [here](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%2C%20Analyses%20%2B%20Results.ipynb)*
+*[Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%2C%20Analyses%20%2B%20Results.ipynb)*
 
 <br>
 <br>
