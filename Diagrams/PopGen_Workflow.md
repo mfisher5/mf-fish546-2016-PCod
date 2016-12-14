@@ -7,16 +7,16 @@
 <br>
 ### In my repo: 
 <br>
-The stacks pipeline from process_radtags to sstacks (BEFORE creation of reference genome using cleaned data from BOWTIE and BLAST) can be found in this [Jupyter notebook](https://github.com/mfisher5/mf-fish546-2016/blob/master/notebooks/Lane1data_full%20stacks%20pipeline.ipynb)
+The stacks pipeline from process_radtags to sstacks (BEFORE creation of reference genome using cleaned data from BOWTIE and BLAST) can be found in this [Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lane1data_full%20stacks%20pipeline.ipynb)
 <br>
 <br>
-[raw data](https://github.com/mfisher5/mf-fish546-2016/blob/master/raw_data/Pcod%20Raw%20Data%20-%20Overview.ipynb)
+[raw data](https://github.com/mfisher5/mf-fish546-PCod/tree/master/raw_data)
 <br>
-[process_radtags output](https://github.com/mfisher5/mf-fish546-2016/tree/master/samplesT142)
+example of [process_radtags output](https://github.com/mfisher5/mf-fish546-PCod/tree/master/L1L2samplesT142)
 <br>
-[u- and c-stacks output](https://github.com/mfisher5/mf-fish546-2016/tree/master/UCstacksL1/stacks_base)
+example of [u- and c-stacks output](https://github.com/mfisher5/mf-fish546-PCod/tree/master/L1L2stacks_m10)
 <br>
-[optimizing parameters for u and c stacks](https://github.com/mfisher5/mf-fish546-2016/tree/master/UCstacksL1)
+[optimizing parameters for u and c stacks](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/testing%20stacks/Testing%20stacks%20Parameters%20I%20.ipynb)
 <br>
-[sstacks output](https://github.com/mfisher5/mf-fish546-2016/tree/master/UCstacksL1/sstacks_batch1030)
+example of [sstacks and populations output](https://github.com/mfisher5/mf-fish546-PCod/tree/master/L1L2stacks_m10)
 
