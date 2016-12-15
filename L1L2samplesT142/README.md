@@ -2,6 +2,7 @@
 
 This folder contains samples from lanes 1 AND 2 of RAD sequencing which were demultiplexed, filtered, trimmed and renamed by `process_radtags` STACKS V1.44.
 
+<br>
 *File description*
 
 gzipped fastq files. 
