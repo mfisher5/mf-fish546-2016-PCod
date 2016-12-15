@@ -46,7 +46,7 @@ A better understanding of the genetic population structure of Pacific cod around
 *[Evernote](https://www.evernote.com/shard/s650/sh/138af148-ea28-416e-b79d-2550b2829d50/3dd0a2619d17e859)*
 
 <br>
-  **(3) Get a preliminary analysis of population structure between 7 populations in the Lanes 1 and 2 data.** *[Here is a helpful workflow diagram of population structure analysis](https://github.com/mfisher5/mf-fish546-2016/blob/master/Diagrams/PopGen_Workflow.md).*
+  **(3) Get a preliminary analysis of population structure between 7 populations in the Lanes 1 and 2 data.** *[Here](https://github.com/mfisher5/mf-fish546-2016/blob/master/Diagrams/PopGen_Workflow.md) is a helpful workflow diagram of population structure analysis, including links to examples of what `stacks` output looks like.*
 
       (a) Run through the full `stacks` pipeline with Lanes 1 and 2 data
 *[Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%20pipeline.ipynb)*
