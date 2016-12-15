@@ -1,5 +1,12 @@
 ## L1L2samplesT142
 
-*These samples were demultiplexed by `process_radtags` from lanes 1 AND 2 of RAD sequencing*
+This folder contains samples from lanes 1 AND 2 of RAD sequencing which were demultiplexed, filtered, trimmed and renamed by `process_radtags` STACKS V1.44.
 
-**Description:** Raw sequencing data has been separated by barcode and renamed to the appropriate sample. Trimmed to 142 base pairs. STACKS V1.44
+*File description*
+
+gzipped fastq files. 
+
+Lane 1: forward and reverse sequence files (PE 150)
+
+Lane 2: forward sequence files only (SR 150)
+
