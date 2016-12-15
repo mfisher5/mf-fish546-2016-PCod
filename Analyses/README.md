@@ -4,6 +4,8 @@ This folder contains analyses completed on `stacks` pipeline output for Lanes 1 
 
 This includes *(1)* R scripts used to run the analyses, *(2)* excel spreadsheets with summary tables and data, *(3)* text files with summary tables, *(4)* graphs and figures from excel and R. 
 
+For the relevant Jupyter notebook, see [Lanes 1 and 2 combined, Analyses + Results](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%2C%20Analyses%20%2B%20Results.ipynb)
+
 <br>
 <br>
 *Subdirectories* 
