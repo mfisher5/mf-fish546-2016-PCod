@@ -9,7 +9,20 @@ This folder is for testing parameters in u- and cstacks using the lane 1 data (s
 (3) stacks reporting output (stderr) saved into text files. 
 <br>
 <br>
+*Subdirectories*
+
+**blast/** : NCBI's blast output when aligning catalog loci from `cstacks` to themselves. 
 <br>
+**bowtie/** : BOWTIE output when aligning catalog loci from `cstacks` to themselves. 
+<br>
+**populations/** : output from `populations` and altered files that were used to create the .fasta file for bowtie
+<br>
+**sstacks_batch/** : output from `sstacks` for each of the batches run when testing changes to `ustacks` or `cstacks` parameters
+<br>
+**stacks_param/** : output from `ustacks` and `cstacks` for each of the parameter changes
+
+<br>
+
 
 *The associated Jupyter notebooks*
 
