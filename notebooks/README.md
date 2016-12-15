@@ -26,7 +26,7 @@
 `Testing stacks Parameters II.ipynb` : stacks v1.42. Full code for finishing ustacks parameter -M, and for comparing outputs from different ustacks parameters, 11/7/2016
 <br>
 <br>
-`stacks-Undercalling Heterozygotes I.ipynb` : stacks v1.42. Description of alternations and testing with additional filtering scripts from Marine Brieuc, for use with pstacks (with reference genome). 
+`Testing stacks output v1.44.ipynb` : stacks v1.44. installing and running new version of stacks, and then manually checking genotype calling. 
 <br>
 <br>
 `stacks-Undercalling Heterozygotes II.ipynb` : stacks v1.42. Description of alternations and testing with additional filtering scripts from Marine Brieuc, for use with cstacks (without reference genome). 
